@@ -15,7 +15,7 @@
 3) Edit `pack.toml` author/version if desired.
 4) Add mods via CurseForge/Modrinth providers (examples below).
 5) Commit & push. Your Pages URL will host `pack.toml`, e.g.:
-   `https://<YOUR_USER>.github.io/<YOUR_REPO>/pack.toml`
+   `https://bluehavenboroughs.github.io/BluehavenBoroughs/pack.toml`
 
 ## Adding mods
 Use one of the following (fill the IDs/slugs). The helper scripts in [`scripts/`](scripts/) are executable, so you can copy the relevant `packwiz ... add` lines into your shell and run them directly after replacing the placeholders.
@@ -38,7 +38,7 @@ packwiz refresh
 - Place it into the instance’s `.minecraft/` folder.
 - In Prism: **Edit Instance → Settings → Custom Commands → Pre-Launch command**:
 ```
-"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://<YOUR_USER>.github.io/<YOUR_REPO>/pack.toml
+"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://bluehavenboroughs.github.io/BluehavenBoroughs/pack.toml
 ```
 - Launch. Mods will auto-download from CurseForge/Modrinth (ARR-compliant).
 
