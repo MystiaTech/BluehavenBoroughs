@@ -1,0 +1,6379 @@
+{
+  "mods": [
+    {
+      "name": "AE2NetworkAnalyzer",
+      "version": "1.20-1.0.6-forge",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "AE2WTLib",
+      "version": "15.3.0-forge",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 304024,
+        "slug": "ae2wtlib",
+        "title": "AE2 Wireless Terminal Library"
+      },
+      "curseforge_file": null
+    },
+    {
+      "name": "AEInfinityBooster",
+      "version": "1.20.1-1.0.0+51",
+      "modrinth": {
+        "slug": "aeinfinitybooster",
+        "title": "AEInfinityBooster",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 559313,
+        "slug": "aeinfinitybooster",
+        "title": "AEInfinityBooster"
+      },
+      "curseforge_file": {
+        "id": 6482257,
+        "displayName": "AEInfinityBooster v1.20.1-1.0.0+51",
+        "fileName": "AEInfinityBooster-1.20.1-1.0.0+51.jar"
+      }
+    },
+    {
+      "name": "AI\\-Improvements",
+      "version": "0.5.2",
+      "modrinth": {
+        "slug": "ai-improvements",
+        "title": "AI Improvements",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "eJihmpNQ",
+        "number": "0.5.2"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Accessories",
+      "version": "1.0.0-beta46+1.20.1",
+      "modrinth": {
+        "slug": "accessories",
+        "title": "Accessories",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 938917,
+        "slug": "accessories",
+        "title": "Accessories"
+      },
+      "curseforge_file": null
+    },
+    {
+      "name": "Actually Useful Stonecutter",
+      "version": "4.0.3 mc 1.19.3",
+      "modrinth": {
+        "slug": "actually-useful-stonecutter",
+        "title": "Actually Useful Stonecutter",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 394424,
+        "slug": "actually-useful-stonecutter",
+        "title": "Actually Useful Stonecutter"
+      },
+      "curseforge_file": {
+        "id": 4395483,
+        "displayName": "Actually Useful Stonecutter 1.19.3",
+        "fileName": "Actually Useful Stonecutter-4.0.3 mc 1.19.3.jar"
+      }
+    },
+    {
+      "name": "Additional Lanterns",
+      "version": "1.1.2",
+      "modrinth": {
+        "slug": "additional-lanterns",
+        "title": "Additional Lanterns",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 501590,
+        "slug": "additional-lanterns",
+        "title": "Additional Lanterns"
+      },
+      "curseforge_file": {
+        "id": 6770053,
+        "displayName": "Additional Lanterns 1.1.2 for Forge 1.20.2",
+        "fileName": "additionallanterns-1.1.2-forge-mc1.20.2.jar"
+      }
+    },
+    {
+      "name": "Advanced Peripherals",
+      "version": "0.7.46r",
+      "modrinth": {
+        "slug": "advancedperipherals",
+        "title": "Advanced Peripherals",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "h2HTYvNe",
+        "number": "1.20.1-0.7.46r"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Alex's Delight",
+      "version": "1.5",
+      "modrinth": {
+        "slug": "cave-delight",
+        "title": "Cave Delight",
+        "score": 0.782608695652174
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 556448,
+        "slug": "alexs-delight",
+        "title": "Alex's Delight"
+      },
+      "curseforge_file": {
+        "id": 5028450,
+        "displayName": "alexsdelight-1.5.jar",
+        "fileName": "alexsdelight-1.5.jar"
+      }
+    },
+    {
+      "name": "Alex's Mobs",
+      "version": "1.22.9",
+      "modrinth": {
+        "slug": "alexs-mobs",
+        "title": "Alex's Mobs",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "XoIASRVU",
+        "number": "1.22.9"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "AllTheOres",
+      "version": "2.2.4",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 237278,
+        "slug": "all-the-ores",
+        "title": "project-237278"
+      },
+      "curseforge_file": null
+    },
+    {
+      "name": "Allthemodium",
+      "version": "2.5.6",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 364466,
+        "slug": "allthemodium",
+        "title": "Allthemodium"
+      },
+      "curseforge_file": {
+        "id": 6389531,
+        "displayName": "allthemodium-1.20.1-47.1.25-2.5.6.jar",
+        "fileName": "allthemodium-1.20.1-47.1.25-2.5.6.jar"
+      }
+    },
+    {
+      "name": "Almanac",
+      "version": "1.0.2",
+      "modrinth": {
+        "slug": "almanac",
+        "title": "Almanac",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "DnzrwvfD",
+        "number": "1.0.2"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "AlmostUnified",
+      "version": "1.20.1-0.10.1",
+      "modrinth": {
+        "slug": "almost-unified",
+        "title": "Almost Unified",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 633823,
+        "slug": "almost-unified",
+        "title": "Almost Unified"
+      },
+      "curseforge_file": {
+        "id": 6912269,
+        "displayName": "AlmostUnified-Forge-1.20.1-0.10.1",
+        "fileName": "almostunified-forge-1.20.1-0.10.1.jar"
+      }
+    },
+    {
+      "name": "Apotheosis",
+      "version": "7.4.8",
+      "modrinth": {
+        "slug": "apotheosis-totem",
+        "title": "Apotheosis Totem",
+        "score": 0.8
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 313970,
+        "slug": "apotheosis",
+        "title": "Apotheosis"
+      },
+      "curseforge_file": {
+        "id": 6461960,
+        "displayName": "Apotheosis-1.20.1-7.4.8.jar",
+        "fileName": "Apotheosis-1.20.1-7.4.8.jar"
+      }
+    },
+    {
+      "name": "Apothic Attributes",
+      "version": "1.3.7",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 898963,
+        "slug": "apothic-attributes",
+        "title": "Apothic Attributes"
+      },
+      "curseforge_file": {
+        "id": 5634071,
+        "displayName": "ApothicAttributes-1.20.1-1.3.7.jar",
+        "fileName": "ApothicAttributes-1.20.1-1.3.7.jar"
+      }
+    },
+    {
+      "name": "Apothic Cataclysm",
+      "version": "1.0.1",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 1214893,
+        "slug": "apothic-cataclysm",
+        "title": "Apothic Cataclysm"
+      },
+      "curseforge_file": {
+        "id": 6274150,
+        "displayName": "apothic_cataclysm-1.0.1.jar",
+        "fileName": "apothic_cataclysm-1.0.1.jar"
+      }
+    },
+    {
+      "name": "AppleSkin",
+      "version": "2.5.1+mc1.20.1",
+      "modrinth": {
+        "slug": "appleskin",
+        "title": "AppleSkin",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "XdXDExVF",
+        "number": "2.5.1+mc1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Applied Botanics",
+      "version": "1.5.1",
+      "modrinth": {
+        "slug": "applied-botanics",
+        "title": "Applied Botanics",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "CBTiHbQs",
+        "number": "1.5.1-forge"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Applied Cooking",
+      "version": "4.0.0",
+      "modrinth": {
+        "slug": "applied-cooking",
+        "title": "Applied Cooking",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "VwTKP4ii",
+        "number": "4.0.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Applied Energistics 2",
+      "version": "15.4.9",
+      "modrinth": {
+        "slug": "ae2",
+        "title": "Applied Energistics 2",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 223794,
+        "slug": "applied-energistics-2",
+        "title": "Applied Energistics 2"
+      },
+      "curseforge_file": {
+        "id": 7096071,
+        "displayName": "AE2 15.4.9 [FORGE]",
+        "fileName": "appliedenergistics2-forge-15.4.9.jar"
+      }
+    },
+    {
+      "name": "Applied Mekanistics",
+      "version": "1.4.2",
+      "modrinth": {
+        "slug": "applied-mekanistics",
+        "title": "Applied Mekanistics",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 574300,
+        "slug": "applied-mekanistics",
+        "title": "Applied Mekanistics"
+      },
+      "curseforge_file": {
+        "id": 4842281,
+        "displayName": "1.4.2",
+        "fileName": "Applied-Mekanistics-1.4.2.jar"
+      }
+    },
+    {
+      "name": "Applied Sorting",
+      "version": "1.0.0",
+      "modrinth": {
+        "slug": "applied-sorting",
+        "title": "Applied Sorting",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "HNqUhSel",
+        "number": "1.20.1-1.0.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "AppliedE",
+      "version": "0.14.3",
+      "modrinth": {
+        "slug": "appliede",
+        "title": "AppliedE",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "aDzdbexR",
+        "number": "0.14.3"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "AppliedFlux",
+      "version": "1.20-1.3.4-forge",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 965012,
+        "slug": "applied-flux",
+        "title": "Applied Flux"
+      },
+      "curseforge_file": {
+        "id": 7072853,
+        "displayName": "AppliedFlux-1.20-1.3.4-forge.jar",
+        "fileName": "AppliedFlux-1.20-1.3.4-forge.jar"
+      }
+    },
+    {
+      "name": "AppliedSchematicannon",
+      "version": "1.0.1",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 1269760,
+        "slug": "applied-schematicannon",
+        "title": "Applied Schematicannon"
+      },
+      "curseforge_file": {
+        "id": 6563312,
+        "displayName": "appliedschematicannon-1.0.1.jar",
+        "fileName": "appliedschematicannon-1.0.1.jar"
+      }
+    },
+    {
+      "name": "Aquaculture 2",
+      "version": "2.5.5",
+      "modrinth": {
+        "slug": "aquaculture",
+        "title": "Aquaculture",
+        "score": 0.9565217391304348
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Architectury",
+      "version": "9.2.14",
+      "modrinth": {
+        "slug": "architectury-api",
+        "title": "Architectury API",
+        "score": 0.8888888888888888
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Armor of the Ages",
+      "version": "1.3.11",
+      "modrinth": {
+        "slug": "armor-of-the-ages",
+        "title": "Armor of the Ages",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "KK7jQh88",
+        "number": "1.3.11"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Ars Additions",
+      "version": "1.20.1-1.6.7",
+      "modrinth": {
+        "slug": "ars-additions",
+        "title": "Ars Additions",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 974408,
+        "slug": "ars-additions",
+        "title": "Ars Additions"
+      },
+      "curseforge_file": {
+        "id": 5834672,
+        "displayName": "ars_additions-1.20.1-1.6.7",
+        "fileName": "ars_additions-1.20.1-1.6.7.jar"
+      }
+    },
+    {
+      "name": "Ars Creo",
+      "version": "4.3.0",
+      "modrinth": {
+        "slug": "ars-creo",
+        "title": "Ars Creo",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 575698,
+        "slug": "ars-creo",
+        "title": "Ars Creo"
+      },
+      "curseforge_file": {
+        "id": 6265696,
+        "displayName": "ars_creo-1.20.1-4.3.0.jar",
+        "fileName": "ars_creo-1.20.1-4.3.0.jar"
+      }
+    },
+    {
+      "name": "Ars Elemental",
+      "version": "0.6.7.8",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 561470,
+        "slug": "ars-elemental",
+        "title": "Ars Elemental"
+      },
+      "curseforge_file": {
+        "id": 6390889,
+        "displayName": "Ars_Elemental 1.20.1-0.6.7.8",
+        "fileName": "ars_elemental-1.20.1-0.6.7.8.jar"
+      }
+    },
+    {
+      "name": "Ars Instrumentum",
+      "version": "4.0.0",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 580179,
+        "slug": "ars-instrumentum",
+        "title": "Ars Instrumentum"
+      },
+      "curseforge_file": {
+        "id": 4758917,
+        "displayName": "Ars Instrumentum 1.20.1 - 4.0.0",
+        "fileName": "ars_instrumentum-1.20.1-4.0.0.jar"
+      }
+    },
+    {
+      "name": "Ars Nouveau",
+      "version": "4.12.7",
+      "modrinth": {
+        "slug": "ars-nouveau",
+        "title": "Ars Nouveau",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "Hw2aD01e",
+        "number": "4.12.7"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Ars Nouveau's Flavors & Delight",
+      "version": "1.1.6",
+      "modrinth": {
+        "slug": "arsdelight",
+        "title": "Ars Nouveau's Flavors & Delight",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "t4N0wQNZ",
+        "number": "1.1.6"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Ars Technica",
+      "version": "1.20.1-1.4.2",
+      "modrinth": {
+        "slug": "ars-technic",
+        "title": "Ars Technic",
+        "score": 0.9523809523809523
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 1096161,
+        "slug": "ars-technica",
+        "title": "Ars Technica"
+      },
+      "curseforge_file": {
+        "id": 6587052,
+        "displayName": "ars_technica-1.20.1-1.4.2.jar",
+        "fileName": "ars_technica-1.20.1-1.4.2.jar"
+      }
+    },
+    {
+      "name": "Ars Énergistique",
+      "version": "1.2.0",
+      "modrinth": {
+        "slug": "ars-energistique",
+        "title": "Ars Énergistique",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "xpgyRm6m",
+        "number": "1.2.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Athena",
+      "version": "3.1.2",
+      "modrinth": {
+        "slug": "athena-ctm",
+        "title": "Athena",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "DULOQFj7",
+        "number": "3.1.2"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "AttributeFix",
+      "version": "21.0.4",
+      "modrinth": {
+        "slug": "attributefix",
+        "title": "AttributeFix",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 280510,
+        "slug": "attributefix",
+        "title": "AttributeFix"
+      },
+      "curseforge_file": {
+        "id": 4911084,
+        "displayName": "AttributeFix-Forge-1.20.1-21.0.4.jar",
+        "fileName": "AttributeFix-Forge-1.20.1-21.0.4.jar"
+      }
+    },
+    {
+      "name": "Bad Packets",
+      "version": "0.4.3",
+      "modrinth": {
+        "slug": "badpackets",
+        "title": "bad packets",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "aXZqpNgH",
+        "number": "forge-0.4.3"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Bad Wither No Cookie Reloaded",
+      "version": "3.17.2",
+      "modrinth": {
+        "slug": "bad-wither-no-cookie",
+        "title": "Bad Wither No Cookie - Reloaded",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "QpHjZgDn",
+        "number": "3.17.2"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "BaguetteLib",
+      "version": "1.1.1",
+      "modrinth": {
+        "slug": "baguettelib",
+        "title": "BaguetteLib",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "zcwsIJEa",
+        "number": "1.1.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Balm",
+      "version": "7.3.37",
+      "modrinth": {
+        "slug": "balm",
+        "title": "Balm",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "BedBenefits",
+      "version": "13.0.3",
+      "modrinth": {
+        "slug": "bed-benefits",
+        "title": "Bed Benefits",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "wPwSjIQd",
+        "number": "13.0.3"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Better Advancements",
+      "version": "0.4.2.25",
+      "modrinth": {
+        "slug": "better-advancements",
+        "title": "Better Advancements",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "NS5G3ENg",
+        "number": "0.4.2.25"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Better Compatibility Checker",
+      "version": "3.0.1-build.58+mc1.20",
+      "modrinth": {
+        "slug": "better-compatibility-checker",
+        "title": "Better Compatibility Checker",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 551894,
+        "slug": "better-compatibility-checker",
+        "title": "Better Compatibility Checker"
+      },
+      "curseforge_file": {
+        "id": 4573949,
+        "displayName": "BetterCompatibilityChecker-3.0.1-build.58+mc1.20.jar",
+        "fileName": "BetterCompatibilityChecker-3.0.1-build.58+mc1.20.jar"
+      }
+    },
+    {
+      "name": "Better Mods Button",
+      "version": "8.0.2",
+      "modrinth": {
+        "slug": "better-mods-button",
+        "title": "Better Mods Button",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "bSoVaTgS",
+        "number": "v8.0.2-1.20.1-Forge"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "BetterF3",
+      "version": "7.0.2",
+      "modrinth": {
+        "slug": "betterf3",
+        "title": "BetterF3",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "xo6HmgWj",
+        "number": "7.0.2"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Blue's Map Addon",
+      "version": "2.3.0",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 994436,
+        "slug": "blues-map-addon",
+        "title": "Blue's Map Addon"
+      },
+      "curseforge_file": null
+    },
+    {
+      "name": "BlueMap",
+      "version": "5.12-mc1.20-6",
+      "modrinth": {
+        "slug": "bluemap",
+        "title": "BlueMap",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 406463,
+        "slug": "bluemap",
+        "title": "BlueMap"
+      },
+      "curseforge_file": {
+        "id": 7057487,
+        "displayName": "bluemap-5.12-mc1.20-6-forge.jar",
+        "fileName": "bluemap-5.12-mc1.20-6-forge.jar"
+      }
+    },
+    {
+      "name": "Bobber Detector",
+      "version": "1.0.2",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Bookshelf",
+      "version": "20.2.13",
+      "modrinth": {
+        "slug": "bookshelf-lib",
+        "title": "Bookshelf",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 228525,
+        "slug": "bookshelf",
+        "title": "Bookshelf"
+      },
+      "curseforge_file": {
+        "id": 5423987,
+        "displayName": "Bookshelf-Forge-1.20.1-20.2.13.jar",
+        "fileName": "Bookshelf-Forge-1.20.1-20.2.13.jar"
+      }
+    },
+    {
+      "name": "Botania",
+      "version": "1.20.1-450-FORGE",
+      "modrinth": {
+        "slug": "botania",
+        "title": "Botania",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "cuN4HNDd",
+        "number": "1.20.1-450-forge"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "BotanyPots",
+      "version": "13.0.41",
+      "modrinth": {
+        "slug": "botany-pots",
+        "title": "Botany Pots",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 353928,
+        "slug": "botany-pots",
+        "title": "Botany Pots"
+      },
+      "curseforge_file": {
+        "id": 6348581,
+        "displayName": "BotanyPots-Forge-1.20.1-13.0.41.jar",
+        "fileName": "BotanyPots-Forge-1.20.1-13.0.41.jar"
+      }
+    },
+    {
+      "name": "BotanyTrees",
+      "version": "9.0.19",
+      "modrinth": {
+        "slug": "botany-trees",
+        "title": "Botany Trees",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 411357,
+        "slug": "botany-trees",
+        "title": "Botany Trees"
+      },
+      "curseforge_file": {
+        "id": 7083881,
+        "displayName": "BotanyTrees-Forge-1.20.1-9.0.19.jar",
+        "fileName": "BotanyTrees-Forge-1.20.1-9.0.19.jar"
+      }
+    },
+    {
+      "name": "Botarium",
+      "version": "2.3.4",
+      "modrinth": {
+        "slug": "botarium",
+        "title": "Botarium",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 704113,
+        "slug": "botarium",
+        "title": "Botarium"
+      },
+      "curseforge_file": {
+        "id": 5486070,
+        "displayName": "[Forge/NeoForge] Botarium 2.3.4",
+        "fileName": "botarium-forge-1.20.1-2.3.4.jar"
+      }
+    },
+    {
+      "name": "Brandon's Core",
+      "version": "3.2.1.302",
+      "modrinth": {
+        "slug": "brandons-core",
+        "title": "Brandons Core",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "qFTHdrDH",
+        "number": "3.2.1.302"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Byzantine",
+      "version": "41",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "CBC Advanced Technology",
+      "version": "0.1.2b-1.20.1",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "CBMultipart",
+      "version": "3.3.0.146",
+      "modrinth": {
+        "slug": "cb-multipart",
+        "title": "CB Multipart",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "RKOPiW1p",
+        "number": "3.3.0.146"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "CC: Androids",
+      "version": "1.3.0",
+      "modrinth": {
+        "slug": "cc-androids",
+        "title": "CC: Androids",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "LsY90nqb",
+        "number": "1.3.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "CC: Tweaked",
+      "version": "1.116.1",
+      "modrinth": {
+        "slug": "cc-tweaked",
+        "title": "CC: Tweaked",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 282001,
+        "slug": "cc-tweaked",
+        "title": "CC: Tweaked"
+      },
+      "curseforge_file": null
+    },
+    {
+      "name": "CC:C Bridge",
+      "version": "1.7.1",
+      "modrinth": {
+        "slug": "cccbridge",
+        "title": "CC:C Bridge",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "yxrimuPr",
+        "number": "1.7.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Caelus API",
+      "version": "3.2.0+1.20.1",
+      "modrinth": {
+        "slug": "caelus",
+        "title": "Caelus API",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "mRry0DgY",
+        "number": "3.2.0+1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Carry On",
+      "version": "2.1.2.7",
+      "modrinth": {
+        "slug": "carry-on",
+        "title": "Carry On",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "edGQD16r",
+        "number": "2.1.2.7"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Catalogue",
+      "version": "1.8.0",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Chalk",
+      "version": "1.6.6",
+      "modrinth": {
+        "slug": "chalk-mod",
+        "title": "Chalk",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "tRKPNWEg",
+        "number": "1.6.6"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Chat Heads",
+      "version": "0.14.0",
+      "modrinth": {
+        "slug": "chat-heads",
+        "title": "Chat Heads",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 407206,
+        "slug": "chat-heads",
+        "title": "Chat Heads"
+      },
+      "curseforge_file": {
+        "id": 7057824,
+        "displayName": "[Forge 1.20.1] 0.14.0",
+        "fileName": "chat_heads-0.14.0-forge-1.20.jar"
+      }
+    },
+    {
+      "name": "ChickenChunks",
+      "version": "2.10.0.100",
+      "modrinth": {
+        "slug": "chicken-chunks",
+        "title": "Chicken Chunks",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "9XYNvXCn",
+        "number": "2.10.0.100"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Chipped",
+      "version": "3.0.7",
+      "modrinth": {
+        "slug": "chipped",
+        "title": "Chipped",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "pi3f4er3",
+        "number": "3.0.7"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Citadel",
+      "version": "2.6.2",
+      "modrinth": {
+        "slug": "citadel",
+        "title": "Citadel",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "oD1qDb1C",
+        "number": "2.6.2"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Clean Swing Through Grass",
+      "version": "1.8",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 915308,
+        "slug": "clean-swing-through-grass",
+        "title": "Clean Swing Through Grass"
+      },
+      "curseforge_file": {
+        "id": 5962530,
+        "displayName": "Clean Swing 1.20.1 1.8",
+        "fileName": "cleanswing-1.20-1.8.jar"
+      }
+    },
+    {
+      "name": "Cloth Config v10 API",
+      "version": "11.1.136",
+      "modrinth": {
+        "slug": "cloth-config",
+        "title": "Cloth Config API",
+        "score": 0.9032258064516129
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Clumps",
+      "version": "12.0.0.4",
+      "modrinth": {
+        "slug": "clumps",
+        "title": "Clumps",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 256717,
+        "slug": "clumps",
+        "title": "Clumps"
+      },
+      "curseforge_file": {
+        "id": 5278538,
+        "displayName": "Clumps-forge-1.20.1-12.0.0.4.jar",
+        "fileName": "Clumps-forge-1.20.1-12.0.0.4.jar"
+      }
+    },
+    {
+      "name": "CodeChicken Lib",
+      "version": "4.4.0.516",
+      "modrinth": {
+        "slug": "codechicken-lib",
+        "title": "CodeChicken Lib",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "pxajg7Ob",
+        "number": "4.4.0.516"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Cognition",
+      "version": "2.4.8-1.20.1",
+      "modrinth": {
+        "slug": "cognition",
+        "title": "Cognition",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "52yITCqv",
+        "number": "2.4.8-1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Comforts",
+      "version": "6.4.0+1.20.1",
+      "modrinth": {
+        "slug": "comforts",
+        "title": "Comforts",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "gBDsc134",
+        "number": "6.4.0+1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "CommonCapabilities",
+      "version": "2.9.10",
+      "modrinth": {
+        "slug": "common-capabilities",
+        "title": "Common Capabilities",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "2GHXyvu1",
+        "number": "1.20.1-2.9.10"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Compact Machines",
+      "version": "6.0.3",
+      "modrinth": {
+        "slug": "cpm-fabric",
+        "title": "Compact Machines - Fabric",
+        "score": 0.8333333333333334
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 224218,
+        "slug": "compact-machines",
+        "title": "Compact Machines"
+      },
+      "curseforge_file": {
+        "id": 6000230,
+        "displayName": "compactmachines-forge-6.0.3.jar",
+        "fileName": "compactmachines-forge-6.0.3.jar"
+      }
+    },
+    {
+      "name": "Configured",
+      "version": "2.2.3",
+      "modrinth": {
+        "slug": "configured",
+        "title": "Configured",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Connected Glass",
+      "version": "1.1.14",
+      "modrinth": {
+        "slug": "connected-glass",
+        "title": "Connected Glass",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 383129,
+        "slug": "connected-glass",
+        "title": "Connected Glass"
+      },
+      "curseforge_file": {
+        "id": 6811804,
+        "displayName": "Connected Glass 1.1.14 for Forge 1.20.1",
+        "fileName": "connectedglass-1.1.14-forge-mc1.20.1.jar"
+      }
+    },
+    {
+      "name": "Construction Wand",
+      "version": "1.20.1-2.11",
+      "modrinth": {
+        "slug": "construction-wand",
+        "title": "Construction Wand",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "XCgKj8gL",
+        "number": "1.20.1-2.11"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Continents",
+      "version": "1.1.11",
+      "modrinth": {
+        "slug": "continents",
+        "title": "Continents",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "vQJAd3ti",
+        "number": "1.1.11"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Controlling",
+      "version": "12.0.2",
+      "modrinth": {
+        "slug": "controlling",
+        "title": "Controlling",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 250398,
+        "slug": "controlling",
+        "title": "Controlling"
+      },
+      "curseforge_file": {
+        "id": 4646682,
+        "displayName": "Controlling-forge-1.20.1-12.0.2.jar",
+        "fileName": "Controlling-forge-1.20.1-12.0.2.jar"
+      }
+    },
+    {
+      "name": "CookingForBlockheads",
+      "version": "16.0.14",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 231484,
+        "slug": "cooking-for-blockheads",
+        "title": "Cooking for Blockheads"
+      },
+      "curseforge_file": {
+        "id": 6975915,
+        "displayName": "cookingforblockheads-forge-1.20.1-16.0.14.jar",
+        "fileName": "cookingforblockheads-forge-1.20.1-16.0.14.jar"
+      }
+    },
+    {
+      "name": "CorgiLib",
+      "version": "4.0.3.4",
+      "modrinth": {
+        "slug": "corgilib",
+        "title": "CorgiLib",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 693313,
+        "slug": "corgilib",
+        "title": "CorgiLib"
+      },
+      "curseforge_file": {
+        "id": 6616784,
+        "displayName": "CorgiLib-forge-1.20.1-4.0.3.4",
+        "fileName": "Corgilib-Forge-1.20.1-4.0.3.4.jar"
+      }
+    },
+    {
+      "name": "CosmeticArmorReworked",
+      "version": "1.20.1-v1a",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 237307,
+        "slug": "cosmetic-armor-reworked",
+        "title": "Cosmetic Armor Reworked"
+      },
+      "curseforge_file": {
+        "id": 4600191,
+        "displayName": "cosmeticarmorreworked-1.20.1-v1a.jar",
+        "fileName": "cosmeticarmorreworked-1.20.1-v1a.jar"
+      }
+    },
+    {
+      "name": "CraftingTweaks",
+      "version": "18.2.6",
+      "modrinth": {
+        "slug": "crafting-tweaks",
+        "title": "Crafting Tweaks",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 233071,
+        "slug": "crafting-tweaks",
+        "title": "Crafting Tweaks"
+      },
+      "curseforge_file": {
+        "id": 6784525,
+        "displayName": "craftingtweaks-forge-1.20.1-18.2.6.jar",
+        "fileName": "craftingtweaks-forge-1.20.1-18.2.6.jar"
+      }
+    },
+    {
+      "name": "Create",
+      "version": "6.0.6",
+      "modrinth": {
+        "slug": "create",
+        "title": "Create",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "JjPQsQVw",
+        "number": "1.20.1-6.0.6"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create : Totem Factory",
+      "version": "1.0",
+      "modrinth": {
+        "slug": "create-totem-factory",
+        "title": "Create: Totem Factory",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "lUKKLn9m",
+        "number": "1.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Big Cannons",
+      "version": "5.9.1",
+      "modrinth": {
+        "slug": "create-big-cannons",
+        "title": "Create Big Cannons",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "hdPNh3oa",
+        "number": "5.9.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Bitterballen",
+      "version": "1.0.1B",
+      "modrinth": {
+        "slug": "create-bitterballen",
+        "title": "Create: Bitterballen",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "ivGh4e6M",
+        "number": "1.0.1B"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Cafe",
+      "version": "1.2.4-1.20.1",
+      "modrinth": {
+        "slug": "create-cafe",
+        "title": "Create Cafe",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "Zj19wiTH",
+        "number": "1.2.4-1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Confectionery",
+      "version": "1.1.0",
+      "modrinth": {
+        "slug": "create-confectionery",
+        "title": "Create Confectionery",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "rMCmTwR8",
+        "number": "1.1.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Crafts & Additions",
+      "version": "1.20.1-1.3.2",
+      "modrinth": {
+        "slug": "createaddition",
+        "title": "Create Crafts & Additions",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Deco",
+      "version": "2.0.3-1.20.1-forge",
+      "modrinth": {
+        "slug": "create-deco",
+        "title": "Create Deco",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "e9gaSRMd",
+        "number": "2.0.3-1.20.1-forge"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Encased",
+      "version": "1.7.2-fix1",
+      "modrinth": {
+        "slug": "create-encased",
+        "title": "Create Encased",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "usE25rBf",
+        "number": "1.7.2-fix1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Enchantment Industry",
+      "version": "1.3.3-for-create-6.0.6",
+      "modrinth": {
+        "slug": "create-enchantment-industry",
+        "title": "Create: Enchantment Industry",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 688768,
+        "slug": "create-enchantment-industry",
+        "title": "Create: Enchantment Industry"
+      },
+      "curseforge_file": {
+        "id": 6652836,
+        "displayName": "CEI 1.3.3 for Create 1.20.1-6.0.6",
+        "fileName": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar"
+      }
+    },
+    {
+      "name": "Create Factory Logistics",
+      "version": "1.4.6",
+      "modrinth": {
+        "slug": "create_factory_logistics",
+        "title": "Create Factory Logistics",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "55cCh8ab",
+        "number": "1.4.6"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Fishery Industry",
+      "version": "3.0.2",
+      "modrinth": {
+        "slug": "create-fishery-industry",
+        "title": "Create: Fishery Industry",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "qGCPzakG",
+        "number": "3.0.2"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Fluid",
+      "version": "1.1.6",
+      "modrinth": {
+        "slug": "create-fluid",
+        "title": "Create: Fluid",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "SqyxBwdy",
+        "number": "1.1.6"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Goggles",
+      "version": "6.1.0",
+      "modrinth": {
+        "slug": "create-goggles",
+        "title": "Create Goggles",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "IojDxE9e",
+        "number": "6.1.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Hypertube",
+      "version": "0.2.6-hotfix",
+      "modrinth": {
+        "slug": "hypertube",
+        "title": "Create: Hypertubes",
+        "score": 0.967741935483871
+      },
+      "modrinth_version": {
+        "id": "iRjDdZIt",
+        "number": "0.2.6-hotfix"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Jetpack",
+      "version": "4.4.2",
+      "modrinth": {
+        "slug": "create-jetpack",
+        "title": "Create Jetpack",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "wAQ8Ph2w",
+        "number": "4.4.2"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Kart",
+      "version": "2.3.0",
+      "modrinth": {
+        "slug": "createbarters",
+        "title": "CreateBarters",
+        "score": 0.782608695652174
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 1148009,
+        "slug": "create-kart",
+        "title": "Create Kart"
+      },
+      "curseforge_file": {
+        "id": 6325893,
+        "displayName": "Create Kart (2.3.0) - 1.20.1",
+        "fileName": "create_kart-2.3.0-forge-1.20.1.jar"
+      }
+    },
+    {
+      "name": "Create Magics",
+      "version": "2.0.0-1.20.1",
+      "modrinth": {
+        "slug": "create-magics",
+        "title": "Create: Magics",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "YBBzbTEx",
+        "number": "2.0.0-1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Mechanical Companion",
+      "version": "1.7-1.20.1",
+      "modrinth": {
+        "slug": "create-mechanical-companion",
+        "title": "Create: Mechanical Companion",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "Nrr4FLiI",
+        "number": "1.7-1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Nuclear",
+      "version": "1.3.0",
+      "modrinth": {
+        "slug": "createnuclear",
+        "title": "Create Nuclear",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "giA0FVYY",
+        "number": "1.3.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Ore Excavation",
+      "version": "1.6.4",
+      "modrinth": {
+        "slug": "create-ore-excavation",
+        "title": "Create Ore Excavation",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "MPDMsEbA",
+        "number": "1.20.1-1.6.4"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Railways Navigator",
+      "version": "1.20.1-beta-0.8.4-C6",
+      "modrinth": {
+        "slug": "create-railways-navigator",
+        "title": "Create Railways Navigator",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "1el6zRxn",
+        "number": "1.20.1-beta-0.8.4-C6"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Slice & Dice",
+      "version": "3.5.2",
+      "modrinth": {
+        "slug": "slice-and-dice",
+        "title": "Create Slice & Dice",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "qa7eMq5Z",
+        "number": "3.5.2"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Stock Bridge",
+      "version": "0.1.5",
+      "modrinth": {
+        "slug": "create-stock-bridge",
+        "title": "Create Stock Bridge",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "rzBecedb",
+        "number": "1.20.1-0.1.5"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Track Map",
+      "version": "1.5",
+      "modrinth": {
+        "slug": "create-track-map",
+        "title": "Create Track Map",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create Ultimine",
+      "version": "1.1.2",
+      "modrinth": {
+        "slug": "create-ultimine",
+        "title": "Create Ultimine",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "cuVJ4lVM",
+        "number": "1.20.1-forge-1.1.2"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Aquatic Ambitions",
+      "version": "1.20.1-2.0.1",
+      "modrinth": {
+        "slug": "create-aquatic-ambitions",
+        "title": "Create: Aquatic Ambitions",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 1005676,
+        "slug": "create-aquatic-ambitions",
+        "title": "Create: Aquatic Ambitions"
+      },
+      "curseforge_file": {
+        "id": 6832241,
+        "displayName": "Create Aquatic Ambitions 1.20.1-2.0.1  for Create 6.0.6",
+        "fileName": "create_aquatic_ambitions-1.20.1-2.0.1.jar"
+      }
+    },
+    {
+      "name": "Create: Bells & Whistles",
+      "version": "0.4.3-1.20.x",
+      "modrinth": {
+        "slug": "bellsandwhistles",
+        "title": "Create: Bells & Whistles",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Buffers & Beams: Overhauled\\!",
+      "version": "1.0.0",
+      "modrinth": {
+        "slug": "cbandb",
+        "title": "Create: Buffer & Beams",
+        "score": 0.7555555555555555
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 1013196,
+        "slug": "create-buffers-and-beams-overhauled",
+        "title": "Create: Buffers and Beams Overhauled!"
+      },
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: CC Total Logistics",
+      "version": "0.3.7",
+      "modrinth": {
+        "slug": "create-cc-total-logistics",
+        "title": "Create: CC Total Logistics",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "wsrJETfG",
+        "number": "0.3.7"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Central Kitchen",
+      "version": "1.4.3b",
+      "modrinth": {
+        "slug": "create-central-kitchen",
+        "title": "Create: Central Kitchen",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "b6J7xYnJ",
+        "number": "1.4.3b"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Cheese Factory",
+      "version": "1.3.0",
+      "modrinth": {
+        "slug": "create-cheese",
+        "title": "Create: Cheese Factory [Forge/NeoForge]",
+        "score": 0.7450980392156863
+      },
+      "modrinth_version": {
+        "id": "QJoIGjsi",
+        "number": "1.3.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Compatible Storage",
+      "version": "2.8.0",
+      "modrinth": {
+        "slug": "create-compatible-storage",
+        "title": "Create: Compatible Storage",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "Dp9qHFCO",
+        "number": "2.8.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Connected",
+      "version": "1.1.7-mc1.20.1",
+      "modrinth": {
+        "slug": "create-connected",
+        "title": "Create: Connected",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "HMzC945H",
+        "number": "1.1.7-mc1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Copycats\\+",
+      "version": "3.0.2+mc.1.20.1-forge",
+      "modrinth": {
+        "slug": "copycats",
+        "title": "Create: Copycats+",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Deep Dark",
+      "version": "1.7.0",
+      "modrinth": {
+        "slug": "deep-fear",
+        "title": "Create Deep Fear",
+        "score": 0.8571428571428571
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 1020173,
+        "slug": "create-deep-dark",
+        "title": "Create: Deep Dark [Forge/NeoForge]"
+      },
+      "curseforge_file": {
+        "id": 5868515,
+        "displayName": "create_deep_dark-1.7.0-forge-1.20.1.jar",
+        "fileName": "create_deep_dark-1.7.0-forge-1.20.1.jar"
+      }
+    },
+    {
+      "name": "Create: Deepfried",
+      "version": "0.1.3B",
+      "modrinth": {
+        "slug": "create-deepfried",
+        "title": "Create: Deepfried",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "ERhFciUN",
+        "number": "0.1.3B"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Drill Drain",
+      "version": "1.0.8",
+      "modrinth": {
+        "slug": "create-drill-drain",
+        "title": "Create Drill Drain",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "3y2v0Sa4",
+        "number": "1.0.8"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Dynamic Village",
+      "version": "0.4",
+      "modrinth": {
+        "slug": "dynamic-village",
+        "title": "Create: Dynamic Village",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "IuAUxMSk",
+        "number": "0.4"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Enchantable Machinery",
+      "version": "3.4.1",
+      "modrinth": {
+        "slug": "create-enchantable-machinery",
+        "title": "Create: Enchantable Machinery",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "hHW0Bm2r",
+        "number": "3.4.1+mc1.20.1-forge"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Escalated",
+      "version": "1.1.0",
+      "modrinth": {
+        "slug": "escalated",
+        "title": "Create: Escalated",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "GXPR3ORJ",
+        "number": "1.1.0+create.6.0.6"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Extra Gauges",
+      "version": "2.0.7",
+      "modrinth": {
+        "slug": "extra-gauges",
+        "title": "Create: Extra Gauges",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "ZbA0Ejq9",
+        "number": "2.0.7"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Factory",
+      "version": "0.4b-1.20.1",
+      "modrinth": {
+        "slug": "create-factory",
+        "title": "Create: Factory",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "aJ3y7MOJ",
+        "number": "0.4b-1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Food",
+      "version": "1.1.11-forge",
+      "modrinth": {
+        "slug": "create-food",
+        "title": "Create: Food",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "nGxXnnas",
+        "number": "1.1.11-forge"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Framed",
+      "version": "1.6.5",
+      "modrinth": {
+        "slug": "create-framed",
+        "title": "Create: Framed",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "Xz8wY6gC",
+        "number": "1.6.5+1.20.1-forge"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Garnished",
+      "version": "2.1.2",
+      "modrinth": {
+        "slug": "create-garnished",
+        "title": "Create: Garnished",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Interiors",
+      "version": "0.5.6",
+      "modrinth": {
+        "slug": "interiors",
+        "title": "Create: Interiors",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "2wGHT9kO",
+        "number": "0.5.6+forge-mc1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Jetpack Curios",
+      "version": "1.2.0",
+      "modrinth": {
+        "slug": "create-jetpack",
+        "title": "Create Jetpack",
+        "score": 0.8125
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Mechanical Botany",
+      "version": "1.0.5",
+      "modrinth": {
+        "slug": "create-mechanical-botany",
+        "title": "Create: Mechanical Botany",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "SuwwCTzv",
+        "number": "1.0.5+1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: New Age",
+      "version": "1.1.4",
+      "modrinth": {
+        "slug": "create-new-age",
+        "title": "Create: New Age",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "8pm2JUQy",
+        "number": "1.1.4"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Power Loader",
+      "version": "2.0.3-mc1.20.1",
+      "modrinth": {
+        "slug": "create-power-loader",
+        "title": "Create: Power Loader",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "gQuz8jcV",
+        "number": "2.0.3-mc1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Radars",
+      "version": "0.3",
+      "modrinth": {
+        "slug": "create-radars",
+        "title": "Create: Radars",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "gW067sUS",
+        "number": "0.3"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Security Program",
+      "version": "0.1.2",
+      "modrinth": {
+        "slug": "create-security-program",
+        "title": "Create: Security Program",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "SWAv0A7a",
+        "number": "0.1.2"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Sound of Steam",
+      "version": "0.7.3+1.20.1",
+      "modrinth": {
+        "slug": "create-sound-of-steam",
+        "title": "Create: Sound of Steam",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 1196142,
+        "slug": "create-sound-of-steam",
+        "title": "Create: Sound of Steam"
+      },
+      "curseforge_file": {
+        "id": 6719262,
+        "displayName": "Create: Sound of Steam Beta 0.7.3-1.20.1",
+        "fileName": "pipeorgans-0.7.3+1.20.1.jar"
+      }
+    },
+    {
+      "name": "Create: Steam 'n' Rails",
+      "version": "1.6.13-alpha+forge-mc1.20.1",
+      "modrinth": {
+        "slug": "create-steam-n-rails",
+        "title": "Create: Steam 'n' Rails",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "ezVPFGKZ",
+        "number": "1.6.13-alpha+forge-mc1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Tank Defenses",
+      "version": "0.80",
+      "modrinth": {
+        "slug": "create-tank-defenses",
+        "title": "Create: Tank Defenses",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "jdJCsldy",
+        "number": "0.80"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Trading Floor",
+      "version": "2.0.5",
+      "modrinth": {
+        "slug": "create-trading-floor",
+        "title": "Create: Trading floor",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "colmW8rh",
+        "number": "2.0.5"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Ultimate Factory",
+      "version": "2.2.1",
+      "modrinth": {
+        "slug": "create-ultimate-factory",
+        "title": "Create: Ultimate Factory [Forge/Fabric/NeoForge]",
+        "score": 0.6885245901639344
+      },
+      "modrinth_version": {
+        "id": "feuPrlUZ",
+        "number": "2.2.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Create: Winery",
+      "version": "1.7.0",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 1161283,
+        "slug": "create-winery",
+        "title": "Create: Winery [Forge/NeoForge]"
+      },
+      "curseforge_file": {
+        "id": 6749825,
+        "displayName": "create_winery-1.7.0-forge-1.20.1.jar",
+        "fileName": "create_winery-1.7.0-forge-1.20.1.jar"
+      }
+    },
+    {
+      "name": "CreateBetterFps",
+      "version": "1.1.1",
+      "modrinth": {
+        "slug": "createbetterfps",
+        "title": "CreateBetterFps",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "G8AvMFll",
+        "number": "1.1.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Creeper Overhaul",
+      "version": "3.0.2",
+      "modrinth": {
+        "slug": "creeper-overhaul",
+        "title": "Creeper Overhaul",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "Ap1DSAzz",
+        "number": "3.0.2"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Cucumber Library",
+      "version": "7.0.15",
+      "modrinth": {
+        "slug": "cucumber",
+        "title": "Cucumber Library",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Cultural Delights",
+      "version": "0.16.5",
+      "modrinth": {
+        "slug": "cultural-delights",
+        "title": "Cultural Delights",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "1IoPruxL",
+        "number": "0.16.5"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Curios Compat Layer for Accessories",
+      "version": "7.4.0+1.20.1",
+      "modrinth": {
+        "slug": "accessories-cc-layer",
+        "title": "Curios Compat Layer for Accessories",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Cyclops Core",
+      "version": "1.21.1",
+      "modrinth": {
+        "slug": "cyclops-core",
+        "title": "Cyclops Core",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 232758,
+        "slug": "cyclops-core",
+        "title": "Cyclops Core"
+      },
+      "curseforge_file": {
+        "id": 7093839,
+        "displayName": "CyclopsCore-1.20.1-1.21.1.jar",
+        "fileName": "CyclopsCore-1.20.1-1.21.1.jar"
+      }
+    },
+    {
+      "name": "DEUF \\- Duplicate Entity UUID Fix",
+      "version": "1.20.1-1.3",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 296646,
+        "slug": "deuf-duplicate-entity-uuid-fix",
+        "title": "DEUF - Duplicate Entity UUID Fix"
+      },
+      "curseforge_file": {
+        "id": 4598640,
+        "displayName": "deuf-1.20.1-1.3.jar",
+        "fileName": "deuf-1.20.1-1.3.jar"
+      }
+    },
+    {
+      "name": "Darker Depths",
+      "version": "2.0.6",
+      "modrinth": {
+        "slug": "darker-depths",
+        "title": "Darker Depths",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "mxjjfEmr",
+        "number": "2.0.6"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Dawn Of Time",
+      "version": "1.5.28",
+      "modrinth": {
+        "slug": "dawn-of-time",
+        "title": "Dawn of Time",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "TVIsTlov",
+        "number": "1.5.28"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Deeper and Darker",
+      "version": "1.3.3",
+      "modrinth": {
+        "slug": "deeperdarker",
+        "title": "Deeper and Darker",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "e2oirgc2",
+        "number": "1.3.3-forge+1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Dimension Viewer",
+      "version": "1.4.0",
+      "modrinth": {
+        "slug": "dimension-viewer",
+        "title": "Dimension Viewer",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "9t3mhqTS",
+        "number": "1.4.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Ding",
+      "version": "1.5.0",
+      "modrinth": {
+        "slug": "ding",
+        "title": "Ding",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "nRsfFBuc",
+        "number": "1.5.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Disenchanting",
+      "version": "2.2.3",
+      "modrinth": {
+        "slug": "disenchanting-book",
+        "title": "Disenchanting Book",
+        "score": 0.8666666666666667
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 321356,
+        "slug": "disenchanting",
+        "title": "Disenchanting"
+      },
+      "curseforge_file": null
+    },
+    {
+      "name": "Domum Ornamentum",
+      "version": "1.20.1-1.0.291-snapshot",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 527361,
+        "slug": "domum-ornamentum",
+        "title": "Domum Ornamentum"
+      },
+      "curseforge_file": {
+        "id": 6870756,
+        "displayName": "domum_ornamentum-1.20.1-1.0.291-snapshot-universal.jar",
+        "fileName": "domum_ornamentum-1.20.1-1.0.291-snapshot-universal.jar"
+      }
+    },
+    {
+      "name": "Domum Ornamentum \\- Bluemap Integration",
+      "version": "1.1.0",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 1337173,
+        "slug": "domum-ornamentum-bluemap-integration",
+        "title": "Domum Ornamentum - BlueMap Integration"
+      },
+      "curseforge_file": {
+        "id": 7063389,
+        "displayName": "domumornamentumbluemap-1.1.0.jar",
+        "fileName": "domumornamentumbluemap-1.1.0.jar"
+      }
+    },
+    {
+      "name": "Draconic Evolution",
+      "version": "3.1.2.621",
+      "modrinth": {
+        "slug": "draconic-evolution",
+        "title": "Draconic Evolution",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "YR33MHbk",
+        "number": "3.1.2.621"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Drawers Tooltip",
+      "version": "8.0.0",
+      "modrinth": {
+        "slug": "drawers-tooltip",
+        "title": "Drawers Tooltip",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "F6vabgwF",
+        "number": "8.0.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Durability Tooltip",
+      "version": "1.1.6",
+      "modrinth": {
+        "slug": "durability-tooltip",
+        "title": "Durability Tooltip",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "f6rQqHhW",
+        "number": "1.1.6-forge-mc1.20"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "EMI",
+      "version": "1.1.22+1.20.1+forge",
+      "modrinth": {
+        "slug": "emi",
+        "title": "EMI",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 580555,
+        "slug": "emi",
+        "title": "EMI"
+      },
+      "curseforge_file": {
+        "id": 6420945,
+        "displayName": "emi-1.1.22+1.20.1+forge",
+        "fileName": "emi-1.1.22+1.20.1+forge.jar"
+      }
+    },
+    {
+      "name": "Easier Sleeping",
+      "version": "2.1.3",
+      "modrinth": {
+        "slug": "easier-sleeping",
+        "title": "Easier Sleeping",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "jS5od0UG",
+        "number": "1.20.1-2.1.3"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Easy Piglins",
+      "version": "1.20.1-1.1.0",
+      "modrinth": {
+        "slug": "easy-piglins",
+        "title": "Easy Piglins",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "uMQU4g6f",
+        "number": "forge-1.20.1-1.1.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Easy Villagers",
+      "version": "1.20.1-1.1.35",
+      "modrinth": {
+        "slug": "easy-villagers",
+        "title": "Easy Villagers",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 400514,
+        "slug": "easy-villagers",
+        "title": "Easy Villagers"
+      },
+      "curseforge_file": {
+        "id": 6831415,
+        "displayName": "[FORGE][1.20.1] Easy Villagers 1.20.1-1.1.35",
+        "fileName": "easy-villagers-forge-1.20.1-1.1.35.jar"
+      }
+    },
+    {
+      "name": "EdivadLib",
+      "version": "2.0.1",
+      "modrinth": {
+        "slug": "edivadlib",
+        "title": "EdivadLib",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "vN5I1S1f",
+        "number": "2.0.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Electron Energy",
+      "version": "1.20.1-1.0.0",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Elevator Mod",
+      "version": "1.20.1-1.9.1-forge",
+      "modrinth": {
+        "slug": "televator",
+        "title": "Televator",
+        "score": 0.8
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Elytra Slot",
+      "version": "6.4.4+1.20.1",
+      "modrinth": {
+        "slug": "elytra-slot",
+        "title": "Elytra Slot",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "k6lA080t",
+        "number": "6.4.4+1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Embeddium",
+      "version": "0.3.31+mc1.20.1",
+      "modrinth": {
+        "slug": "embeddium",
+        "title": "Embeddium",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 908741,
+        "slug": "embeddium",
+        "title": "Embeddium"
+      },
+      "curseforge_file": {
+        "id": 5681725,
+        "displayName": "[1.20.1] Embeddium 0.3.31",
+        "fileName": "embeddium-0.3.31+mc1.20.1.jar"
+      }
+    },
+    {
+      "name": "EnchantmentDescriptions",
+      "version": "17.1.19",
+      "modrinth": {
+        "slug": "enchantment-descriptions",
+        "title": "Enchantment Descriptions",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 250419,
+        "slug": "enchantment-descriptions",
+        "title": "Enchantment Descriptions"
+      },
+      "curseforge_file": {
+        "id": 5855251,
+        "displayName": "EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+        "fileName": "EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar"
+      }
+    },
+    {
+      "name": "Ender IO",
+      "version": "6.2.15-beta",
+      "modrinth": {
+        "slug": "enderio",
+        "title": "Ender IO",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "RstESTNG",
+        "number": "6.2.15-beta"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "EnderStorage",
+      "version": "2.11.0.188",
+      "modrinth": {
+        "slug": "ender-storage",
+        "title": "Ender Storage",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "pTEnM5jC",
+        "number": "2.11.0.188"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Enderman Overhaul",
+      "version": "1.0.4",
+      "modrinth": {
+        "slug": "enderman-overhaul",
+        "title": "Enderman Overhaul",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "yjxych8u",
+        "number": "1.0.4"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Entangled",
+      "version": "1.3.20",
+      "modrinth": {
+        "slug": "entangled",
+        "title": "Entangled",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 301034,
+        "slug": "entangled",
+        "title": "Entangled"
+      },
+      "curseforge_file": {
+        "id": 5885909,
+        "displayName": "Entangled 1.3.20 for Forge 1.20.4",
+        "fileName": "entangled-1.3.20-forge-mc1.20.4.jar"
+      }
+    },
+    {
+      "name": "Entity Model Features",
+      "version": "3.0.1",
+      "modrinth": {
+        "slug": "entity-model-features",
+        "title": "[EMF] Entity Model Features",
+        "score": 0.926829268292683
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 844662,
+        "slug": "entity-model-features",
+        "title": "[EMF] Entity Model Features [Fabric & Forge]"
+      },
+      "curseforge_file": {
+        "id": 6922712,
+        "displayName": "Forge - 1.20.1 - 3.0.1",
+        "fileName": "entity_model_features_1.20.1-forge-3.0.1.jar"
+      }
+    },
+    {
+      "name": "Entity Sound Features",
+      "version": "0.7.1",
+      "modrinth": {
+        "slug": "esf",
+        "title": "[ESF] Entity Sound Features",
+        "score": 0.926829268292683
+      },
+      "modrinth_version": {
+        "id": "QCAwd6Nn",
+        "number": "0.7.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Entity Texture Features",
+      "version": "7.0.2",
+      "modrinth": {
+        "slug": "entitytexturefeatures",
+        "title": "[ETF] Entity Texture Features",
+        "score": 0.9333333333333333
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "EuphoriaPatcher",
+      "version": "1.7.2-r5.6.1-forge",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Experience Bug Fix",
+      "version": "46.2.2",
+      "modrinth": {
+        "slug": "fix-experience-bug",
+        "title": "Fix Experience Bug",
+        "score": 0.8125
+      },
+      "modrinth_version": {
+        "id": "8TypATac",
+        "number": "46.2.2"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Explorer's Compass",
+      "version": "1.20.1-1.3.3-forge",
+      "modrinth": {
+        "slug": "explorers-compass",
+        "title": "Explorer's Compass",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "JS0ehUbr",
+        "number": "1.20.1-1.3.3-forge"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "ExtraStorage",
+      "version": "4.0.7",
+      "modrinth": {
+        "slug": "extrastorage",
+        "title": "ExtraStorage",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "LSn2z31g",
+        "number": "4.0.7"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Extreme Sound Muffler",
+      "version": "3.48",
+      "modrinth": {
+        "slug": "extreme_sound_muffler",
+        "title": "Extreme sound muffler",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "FSGoF44s",
+        "number": "3.48-1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "FTB Chunks",
+      "version": "2001.3.6",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 314906,
+        "slug": "ftb-chunks",
+        "title": "FTB Chunks (Forge)"
+      },
+      "curseforge_file": {
+        "id": 6431735,
+        "displayName": "ftb-chunks-forge-2001.3.6.jar",
+        "fileName": "ftb-chunks-forge-2001.3.6.jar"
+      }
+    },
+    {
+      "name": "FTB Essentials",
+      "version": "2001.2.3",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 410811,
+        "slug": "ftb-essentials",
+        "title": "FTB Essentials (Forge & Fabric)"
+      },
+      "curseforge_file": {
+        "id": 6555287,
+        "displayName": "ftb-essentials-forge-2001.2.3.jar",
+        "fileName": "ftb-essentials-forge-2001.2.3.jar"
+      }
+    },
+    {
+      "name": "FTB Library",
+      "version": "2001.2.10",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 237167,
+        "slug": "ftb-library",
+        "title": "FTB Library (Forge) (Legacy)"
+      },
+      "curseforge_file": null
+    },
+    {
+      "name": "FTB Teams",
+      "version": "2001.3.1",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 404468,
+        "slug": "ftb-teams",
+        "title": "FTB Teams (Forge)"
+      },
+      "curseforge_file": {
+        "id": 6130786,
+        "displayName": "ftb-teams-forge-2001.3.1.jar",
+        "fileName": "ftb-teams-forge-2001.3.1.jar"
+      }
+    },
+    {
+      "name": "FTB Ultimine",
+      "version": "2001.1.7",
+      "modrinth": {
+        "slug": "create-ultimine",
+        "title": "Create Ultimine",
+        "score": 0.72
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 386134,
+        "slug": "ftb-ultimine",
+        "title": "FTB Ultimine (Forge)"
+      },
+      "curseforge_file": {
+        "id": 6899418,
+        "displayName": "ftb-ultimine-forge-2001.1.7.jar",
+        "fileName": "ftb-ultimine-forge-2001.1.7.jar"
+      }
+    },
+    {
+      "name": "Farmer's Cutting: Oh The Biomes We've Gone",
+      "version": "1.20.1-1.1-forge",
+      "modrinth": {
+        "slug": "farmers-cutting-oh-the-biomes-weve-gone",
+        "title": "Farmer's Cutting: Oh The Biomes We've Gone",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "4pcjIbg5",
+        "number": "1.20.1-1.1-forge+mod"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Farmer's Cutting: Twilight Forest",
+      "version": "1.20.1-1.0",
+      "modrinth": {
+        "slug": "farmers-cutting-twilight-forest",
+        "title": "Farmer's Cutting: Twilight Forest",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "BIxQGaf2",
+        "number": "1.20.1-1.0+mod"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Farmer's Delight",
+      "version": "1.20.1-1.2.9",
+      "modrinth": {
+        "slug": "farmers-delight",
+        "title": "Farmer's Delight",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "8rPF1pFi",
+        "number": "1.20.1-1.2.9"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Fast Leaf Decay",
+      "version": "32",
+      "modrinth": {
+        "slug": "fld",
+        "title": "Fast Leaf Decay",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 230976,
+        "slug": "fast-leaf-decay",
+        "title": "Fast Leaf Decay"
+      },
+      "curseforge_file": {
+        "id": 5375681,
+        "displayName": "FastLeafDecay-32.jar",
+        "fileName": "FastLeafDecay-32.jar"
+      }
+    },
+    {
+      "name": "Fast Paintings",
+      "version": "1.20-1.2.7",
+      "modrinth": {
+        "slug": "fast-paintings",
+        "title": "Fast Paintings",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "Bvjyyy1T",
+        "number": "1.20-1.2.7"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Fast Workbench",
+      "version": "8.0.4",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 288885,
+        "slug": "fastworkbench",
+        "title": "FastWorkbench"
+      },
+      "curseforge_file": {
+        "id": 5101229,
+        "displayName": "FastWorkbench-1.20.1-8.0.4.jar",
+        "fileName": "FastWorkbench-1.20.1-8.0.4.jar"
+      }
+    },
+    {
+      "name": "FastFurnace",
+      "version": "8.0.2",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 299540,
+        "slug": "fastfurnace",
+        "title": "FastFurnace"
+      },
+      "curseforge_file": {
+        "id": 5181098,
+        "displayName": "FastFurnace-1.20.1-8.0.2.jar",
+        "fileName": "FastFurnace-1.20.1-8.0.2.jar"
+      }
+    },
+    {
+      "name": "Faster Ladder Climbing",
+      "version": "0.2.10",
+      "modrinth": {
+        "slug": "faster-ladder-climbing",
+        "title": "Faster Ladder Climbing",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "r2Yvspic",
+        "number": "0.2.10"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Female Plastic Surgery: Bust Limit Tweaker",
+      "version": "1.0.0",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 1178067,
+        "slug": "female-plastic-surgery-bust-limit-tweaker",
+        "title": "Female Plastic Surgery: Bust Limit Tweaker"
+      },
+      "curseforge_file": {
+        "id": 6202087,
+        "displayName": "FemalePlasticSurgery-forge-1.20.1-1.0.0.jar",
+        "fileName": "FemalePlasticSurgery-forge-1.20.1-1.0.0.jar"
+      }
+    },
+    {
+      "name": "Ferrite Core",
+      "version": "6.0.1",
+      "modrinth": {
+        "slug": "ferrite-core",
+        "title": "FerriteCore",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "DG5Fn9Sz",
+        "number": "6.0.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Fetzi's Asian Decoration",
+      "version": "1.7.2b",
+      "modrinth": {
+        "slug": "fetzis-asian-decoration",
+        "title": "Fetzi's Asian Decoration",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "AF34H2ZW",
+        "number": "1.7.2b"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Flat Bedrock",
+      "version": "3.0.1-build.18+mc1.20.1",
+      "modrinth": {
+        "slug": "flat-bedrock",
+        "title": "Flat Bedrock",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 398623,
+        "slug": "flat-bedrock",
+        "title": "Flat Bedrock (Forge / Fabric)"
+      },
+      "curseforge_file": {
+        "id": 4680891,
+        "displayName": "flatbedrock Forge 3.0.1+mc1.20.1",
+        "fileName": "flatbedrock-forge-3.0.1-build.18+mc1.20.1.jar"
+      }
+    },
+    {
+      "name": "Flux Network x CC: Tweaked",
+      "version": "1.20.1-1.0.0",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 1212735,
+        "slug": "flux-network-x-cc-tweaked",
+        "title": "Flux Network x CC: Tweaked"
+      },
+      "curseforge_file": {
+        "id": 6296330,
+        "displayName": "fncct-1.20.1-1.0.0",
+        "fileName": "fncct-1.20.1-1.0.0.jar"
+      }
+    },
+    {
+      "name": "Flux Networks",
+      "version": "7.2.1.15",
+      "modrinth": {
+        "slug": "flux-network-fabric",
+        "title": "Flux Networks [Fabric]",
+        "score": 0.8
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 248020,
+        "slug": "flux-networks",
+        "title": "Flux Networks"
+      },
+      "curseforge_file": {
+        "id": 5234697,
+        "displayName": "Flux-Networks-1.20.1-7.2.1",
+        "fileName": "FluxNetworks-1.20.1-7.2.1.15.jar"
+      }
+    },
+    {
+      "name": "Framework",
+      "version": "0.7.15",
+      "modrinth": {
+        "slug": "unnamed-framework",
+        "title": "Unnamed Framework",
+        "score": 0.72
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 549225,
+        "slug": "framework",
+        "title": "Framework"
+      },
+      "curseforge_file": {
+        "id": 6531428,
+        "displayName": "Framework 0.7.15",
+        "fileName": "framework-forge-1.20.1-0.7.15.jar"
+      }
+    },
+    {
+      "name": "Fusion",
+      "version": "1.2.11+a",
+      "modrinth": {
+        "slug": "fusion",
+        "title": "Fusion",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 226139,
+        "slug": "fusion",
+        "title": "Fusion"
+      },
+      "curseforge_file": null
+    },
+    {
+      "name": "GeckoLib 4",
+      "version": "4.8.2",
+      "modrinth": {
+        "slug": "geckolib",
+        "title": "Geckolib",
+        "score": 0.9411764705882353
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Get It Together, Drops\\!",
+      "version": "1.3",
+      "modrinth": {
+        "slug": "get-it-together-drops",
+        "title": "Get It Together, Drops!",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "csPzTtJp",
+        "number": "v1.3"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Glodium",
+      "version": "1.20-1.5-forge",
+      "modrinth": {
+        "slug": "glodium",
+        "title": "Glodium",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "eoUaDkZf",
+        "number": "1.20-1.5-forge"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Goblin Traders",
+      "version": "1.11.5",
+      "modrinth": {
+        "slug": "goblin-traders-fabric",
+        "title": "Goblin Traders (Fabric)",
+        "score": 0.8125
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 363703,
+        "slug": "goblin-traders",
+        "title": "Goblin Traders"
+      },
+      "curseforge_file": {
+        "id": 6891922,
+        "displayName": "Goblin Traders 1.11.5",
+        "fileName": "goblintraders-forge-1.20.1-1.11.5.jar"
+      }
+    },
+    {
+      "name": "Gravestone Mod",
+      "version": "1.20.1-1.0.35",
+      "modrinth": {
+        "slug": "gravestone-mod",
+        "title": "GraveStone Mod",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "q9kZE5Xo",
+        "number": "forge-1.20.1-1.0.35"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "GuideME",
+      "version": "20.1.13",
+      "modrinth": {
+        "slug": "guideme",
+        "title": "GuideME",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "SYp7t1xZ",
+        "number": "20.1.13"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "HammerLib",
+      "version": "20.1.50",
+      "modrinth": {
+        "slug": "hammer-lib",
+        "title": "HammerLib",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 247401,
+        "slug": "hammer-lib",
+        "title": "HammerLib"
+      },
+      "curseforge_file": {
+        "id": 6337292,
+        "displayName": "[1.20.1] HammerLib - 20.1.50",
+        "fileName": "HammerLib-1.20.1-20.1.50.jar"
+      }
+    },
+    {
+      "name": "Handcrafted",
+      "version": "3.0.6",
+      "modrinth": {
+        "slug": "handcrafted",
+        "title": "Handcrafted",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "N7wZwOFy",
+        "number": "3.0.6"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Hostile Neural Networks",
+      "version": "5.3.3",
+      "modrinth": {
+        "slug": "sanguine-neural-networks",
+        "title": "Sanguine Neural Networks",
+        "score": 0.7906976744186046
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 552574,
+        "slug": "hostile-neural-networks",
+        "title": "Hostile Neural Networks"
+      },
+      "curseforge_file": {
+        "id": 5895036,
+        "displayName": "HostileNeuralNetworks-1.20.1-5.3.3.jar",
+        "fileName": "HostileNeuralNetworks-1.20.1-5.3.3.jar"
+      }
+    },
+    {
+      "name": "ImmediatelyFast",
+      "version": "1.5.2+1.20.4",
+      "modrinth": {
+        "slug": "immediatelyfast",
+        "title": "ImmediatelyFast",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 686911,
+        "slug": "immediatelyfast",
+        "title": "ImmediatelyFast"
+      },
+      "curseforge_file": {
+        "id": 6997261,
+        "displayName": "ImmediatelyFast 1.5.2",
+        "fileName": "ImmediatelyFast-Forge-1.5.2+1.20.4.jar"
+      }
+    },
+    {
+      "name": "Immersive Aircraft",
+      "version": "1.4.0+1.20.1",
+      "modrinth": {
+        "slug": "immersive-aircraft",
+        "title": "Immersive Aircraft",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 666014,
+        "slug": "immersive-aircraft",
+        "title": "Immersive Aircraft [Fabric/Forge]"
+      },
+      "curseforge_file": {
+        "id": 6972825,
+        "displayName": "[Forge 1.20.1] Immersive Aircraft - 1.4.0",
+        "fileName": "immersive_aircraft-1.4.0+1.20.1-forge.jar"
+      }
+    },
+    {
+      "name": "Immersive Engineering",
+      "version": "1.20.1-10.2.0-183",
+      "modrinth": {
+        "slug": "immersiveengineering",
+        "title": "Immersive Engineering",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 231951,
+        "slug": "immersive-engineering",
+        "title": "Immersive Engineering"
+      },
+      "curseforge_file": {
+        "id": 6206989,
+        "displayName": "ImmersiveEngineering-1.20.1-10.2.0-183",
+        "fileName": "ImmersiveEngineering-1.20.1-10.2.0-183.jar"
+      }
+    },
+    {
+      "name": "Immersive Lanterns",
+      "version": "1.0.6",
+      "modrinth": {
+        "slug": "immersive-lanterns",
+        "title": "Toni's Immersive Lanterns",
+        "score": 0.8717948717948718
+      },
+      "modrinth_version": {
+        "id": "bKAfmaXM",
+        "number": "1.0.6"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Immersive Posts",
+      "version": "4.3.0-11",
+      "modrinth": {
+        "slug": "immersiveposts",
+        "title": "Immersive Posts",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "hNYb1B6a",
+        "number": "4.3.0-11"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Incendium",
+      "version": "5.3.5",
+      "modrinth": {
+        "slug": "incendium",
+        "title": "Incendium",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "uUqarp2H",
+        "number": "5.3.5"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Integrated API",
+      "version": "1.5.3+1.20.1-forge",
+      "modrinth": {
+        "slug": "integrated-api",
+        "title": "Integrated API",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 817709,
+        "slug": "integrated-api",
+        "title": "Integrated API"
+      },
+      "curseforge_file": {
+        "id": 6369317,
+        "displayName": "integrated_api-1.5.3+1.20.1-forge.jar",
+        "fileName": "integrated_api-1.5.3+1.20.1-forge.jar"
+      }
+    },
+    {
+      "name": "Integrated Dungeons and Structures",
+      "version": "1.12.1+1.20.1",
+      "modrinth": {
+        "slug": "idas",
+        "title": " Integrated Dungeons and Structures",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Integrated Stronghold",
+      "version": "1.1.2+1.20.1-forge",
+      "modrinth": {
+        "slug": "integrated-stronghold",
+        "title": "Integrated Stronghold",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 815548,
+        "slug": "integrated-stronghold",
+        "title": "Integrated Stronghold"
+      },
+      "curseforge_file": {
+        "id": 6095052,
+        "displayName": "integrated_stronghold-1.1.2+1.20.1-forge.jar",
+        "fileName": "integrated_stronghold-1.1.2+1.20.1-forge.jar"
+      }
+    },
+    {
+      "name": "Integrated Villages",
+      "version": "1.3.0+1.20.1-forge",
+      "modrinth": {
+        "slug": "integrated-villages",
+        "title": "Integrated Villages",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 661376,
+        "slug": "integrated-villages",
+        "title": "Integrated Villages"
+      },
+      "curseforge_file": {
+        "id": 6701488,
+        "displayName": "integrated_villages-1.3.0+1.20.1-forge.jar",
+        "fileName": "integrated_villages-1.3.0+1.20.1-forge.jar"
+      }
+    },
+    {
+      "name": "IntegratedCrafting",
+      "version": "1.3.1",
+      "modrinth": {
+        "slug": "integrated-crafting",
+        "title": " Integrated Crafting",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 287357,
+        "slug": "integrated-crafting",
+        "title": "Integrated Crafting"
+      },
+      "curseforge_file": {
+        "id": 7116984,
+        "displayName": "IntegratedCrafting-1.20.1-1.3.1.jar",
+        "fileName": "IntegratedCrafting-1.20.1-1.3.1.jar"
+      }
+    },
+    {
+      "name": "IntegratedDynamics",
+      "version": "1.28.1",
+      "modrinth": {
+        "slug": "integrated-dynamics",
+        "title": "Integrated Dynamics",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 236307,
+        "slug": "integrated-dynamics",
+        "title": "Integrated Dynamics"
+      },
+      "curseforge_file": {
+        "id": 7094010,
+        "displayName": "IntegratedDynamics-1.20.1-1.28.1.jar",
+        "fileName": "IntegratedDynamics-1.20.1-1.28.1.jar"
+      }
+    },
+    {
+      "name": "IntegratedTerminals",
+      "version": "1.6.11",
+      "modrinth": {
+        "slug": "integrated-terminals",
+        "title": "Integrated Terminals",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 295910,
+        "slug": "integrated-terminals",
+        "title": "Integrated Terminals"
+      },
+      "curseforge_file": {
+        "id": 7116974,
+        "displayName": "IntegratedTerminals-1.20.1-1.6.11.jar",
+        "fileName": "IntegratedTerminals-1.20.1-1.6.11.jar"
+      }
+    },
+    {
+      "name": "IntegratedTunnels",
+      "version": "1.9.0",
+      "modrinth": {
+        "slug": "integrated-tunnels",
+        "title": "Integrated Tunnels",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 251389,
+        "slug": "integrated-tunnels",
+        "title": "Integrated Tunnels"
+      },
+      "curseforge_file": {
+        "id": 7076217,
+        "displayName": "IntegratedTunnels-1.20.1-1.9.0.jar",
+        "fileName": "IntegratedTunnels-1.20.1-1.9.0.jar"
+      }
+    },
+    {
+      "name": "Inventory Essentials",
+      "version": "8.2.12",
+      "modrinth": {
+        "slug": "inventory-essentials",
+        "title": "Inventory Essentials",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 368825,
+        "slug": "inventory-essentials",
+        "title": "Inventory Essentials"
+      },
+      "curseforge_file": {
+        "id": 6977231,
+        "displayName": "inventoryessentials-forge-1.20.1-8.2.12.jar",
+        "fileName": "inventoryessentials-forge-1.20.1-8.2.12.jar"
+      }
+    },
+    {
+      "name": "JRFTL",
+      "version": "1.6.0",
+      "modrinth": {
+        "slug": "jrftl",
+        "title": "Just Another Rotten Flesh to Leather Mod",
+        "score": 0.2564102564102564
+      },
+      "modrinth_version": {
+        "id": "lHLTx4dM",
+        "number": "1.6.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "JamLib",
+      "version": "1.3.5+1.20.1",
+      "modrinth": {
+        "slug": "jamlib",
+        "title": "JamLib",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 623764,
+        "slug": "jamlib",
+        "title": "JamLib"
+      },
+      "curseforge_file": {
+        "id": 6421940,
+        "displayName": "V1.3.5+1.20.1 (Forge 1.20.1)",
+        "fileName": "jamlib-forge-1.3.5+1.20.1.jar"
+      }
+    },
+    {
+      "name": "JourneyMap Integration",
+      "version": "1.20.1-0.14-48",
+      "modrinth": {
+        "slug": "journeymap-integration",
+        "title": "JourneyMap Integration",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "BBbIV2h1",
+        "number": "1.20.1-0.14-48+forge"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Journeymap",
+      "version": "5.10.3",
+      "modrinth": {
+        "slug": "journeymap",
+        "title": "JourneyMap",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 32274,
+        "slug": "journeymap",
+        "title": "JourneyMap"
+      },
+      "curseforge_file": {
+        "id": 5789363,
+        "displayName": "journeymap-1.20.1-5.10.3-forge",
+        "fileName": "journeymap-1.20.1-5.10.3-forge.jar"
+      }
+    },
+    {
+      "name": "Just Enough Items",
+      "version": "15.20.0.116",
+      "modrinth": {
+        "slug": "jei",
+        "title": "Just Enough Items",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Kotlin for Forge",
+      "version": "5402061",
+      "modrinth": {
+        "slug": "kotlin-for-forge",
+        "title": "Kotlin for Forge",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 351264,
+        "slug": "kotlin-for-forge",
+        "title": "Kotlin for Forge"
+      },
+      "curseforge_file": null
+    },
+    {
+      "name": "Let Me Despawn",
+      "version": "1.5.0",
+      "modrinth": {
+        "slug": "lmd",
+        "title": "Let Me Despawn",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "1VmupN41",
+        "number": "1.5.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Lexiconfig",
+      "version": "1.4.18-1",
+      "modrinth": {
+        "slug": "lexiconfig",
+        "title": "Lexiconfig",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "iv3Hdpa6",
+        "number": "1.4.18-1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "LionfishAPI",
+      "version": "2.4-Fix",
+      "modrinth": {
+        "slug": "lionfish-api",
+        "title": "Lionfish-API",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 1001614,
+        "slug": "lionfish-api",
+        "title": "Lionfish API"
+      },
+      "curseforge_file": {
+        "id": 5922047,
+        "displayName": "lionfishapi-2.4-Fix.jar",
+        "fileName": "lionfishapi-2.4-Fix.jar"
+      }
+    },
+    {
+      "name": "Lootr",
+      "version": "0.7.35.92",
+      "modrinth": {
+        "slug": "lootr",
+        "title": "Lootr",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 361276,
+        "slug": "lootr",
+        "title": "Lootr (Forge & NeoForge)"
+      },
+      "curseforge_file": {
+        "id": 6913496,
+        "displayName": "lootr-forge-1.20-0.7.35.92.jar",
+        "fileName": "lootr-forge-1.20-0.7.35.92.jar"
+      }
+    },
+    {
+      "name": "ME Requester",
+      "version": "1.20.1-1.1.5",
+      "modrinth": {
+        "slug": "merequester",
+        "title": "ME Requester",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "Gm7oyczu",
+        "number": "1.20.1-1.1.5+forge"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "MEProxy",
+      "version": "1.0.1",
+      "modrinth": {
+        "slug": "me-proxy",
+        "title": "ME Proxy",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "e3Uod9bJ",
+        "number": "1.0.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Macaw's Bridges",
+      "version": "3.1.0",
+      "modrinth": {
+        "slug": "macaws-bridges",
+        "title": "Macaw's Bridges",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "XSLsYKYH",
+        "number": "3.1.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Macaw's Doors",
+      "version": "1.1.2",
+      "modrinth": {
+        "slug": "macaws-doors",
+        "title": "Macaw's Doors",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "yP3Gpe6J",
+        "number": "1.1.2"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Macaw's Fences and Walls",
+      "version": "1.2.0",
+      "modrinth": {
+        "slug": "macaws-fences-and-walls",
+        "title": "Macaw's Fences and Walls",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Macaw's Furniture",
+      "version": "3.3.0",
+      "modrinth": {
+        "slug": "macaws-furniture",
+        "title": "Macaw's Furniture",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "jQcvCX79",
+        "number": "3.3.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Macaw's Lights and Lamps",
+      "version": "1.1.2",
+      "modrinth": {
+        "slug": "macaws-lights-and-lamps",
+        "title": "Macaw's Lights and Lamps",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "gqevfDHf",
+        "number": "1.1.2"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Macaw's Paintings",
+      "version": "1.0.5",
+      "modrinth": {
+        "slug": "macaws-paintings",
+        "title": "Macaw's Paintings",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "yaSdsps0",
+        "number": "1.0.5"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Macaw's Paths and Pavings",
+      "version": "1.1.1",
+      "modrinth": {
+        "slug": "macaws-paths-and-pavings",
+        "title": "Macaw's Paths and Pavings",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 629153,
+        "slug": "macaws-paths-and-pavings",
+        "title": "Macaw's Paths and Pavings"
+      },
+      "curseforge_file": {
+        "id": 7029554,
+        "displayName": "v1.1.1 / mc1.20.1 - Forge",
+        "fileName": "mcw-mcwpaths-1.1.1-mc1.20.1forge.jar"
+      }
+    },
+    {
+      "name": "Macaw's Roofs",
+      "version": "2.3.2",
+      "modrinth": {
+        "slug": "macaws-roofs",
+        "title": "Macaw's Roofs",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 352039,
+        "slug": "macaws-roofs",
+        "title": "Macaw's Roofs"
+      },
+      "curseforge_file": {
+        "id": 6494466,
+        "displayName": "v2.3.2 / mc1.20.1 - Forge",
+        "fileName": "mcw-roofs-2.3.2-mc1.20.1forge.jar"
+      }
+    },
+    {
+      "name": "Macaw's Stairs and Balconies",
+      "version": "1.0.1",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Macaw's Trapdoors",
+      "version": "1.1.4",
+      "modrinth": {
+        "slug": "macaws-trapdoors",
+        "title": "Macaw's Trapdoors",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "eyOMFyxY",
+        "number": "1.1.4"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Macaw's Windows",
+      "version": "2.4.1",
+      "modrinth": {
+        "slug": "macaws-windows",
+        "title": "Macaw's Windows",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 363569,
+        "slug": "macaws-windows",
+        "title": "Macaw's Windows"
+      },
+      "curseforge_file": {
+        "id": 7025435,
+        "displayName": "v2.4.1 / mc1.20.1 - Forge",
+        "fileName": "mcw-mcwwindows-2.4.1-mc1.20.1forge.jar"
+      }
+    },
+    {
+      "name": "Mahou Tsukai",
+      "version": "1.20.1-v1.34.80",
+      "modrinth": {
+        "slug": "mahou-tsukai",
+        "title": "Mahou Tsukai",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 342543,
+        "slug": "mahou-tsukai",
+        "title": "Mahou Tsukai"
+      },
+      "curseforge_file": {
+        "id": 7115869,
+        "displayName": "mahoutsukai-1.20.1-v1.34.80.jar",
+        "fileName": "mahoutsukai-1.20.1-v1.34.80.jar"
+      }
+    },
+    {
+      "name": "Mana and Artifice",
+      "version": "3.1.11",
+      "modrinth": {
+        "slug": "mana-and-artifice",
+        "title": "Mana and Artifice",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "odH1eB1x",
+        "number": "3.1.11"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Map Atlases",
+      "version": "1.20-6.0.17",
+      "modrinth": {
+        "slug": "map-atlases",
+        "title": "Map Atlases",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Map Atlases \\+ Waystones Compatibility",
+      "version": "1.0.0",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 1261658,
+        "slug": "map-atlases-waystones-compatibility",
+        "title": "Map Atlases + Waystones Compatibility"
+      },
+      "curseforge_file": {
+        "id": 6556251,
+        "displayName": "a2w-1.0.0.jar",
+        "fileName": "a2w-1.0.0.jar"
+      }
+    },
+    {
+      "name": "MaxHealthFix",
+      "version": "12.0.3",
+      "modrinth": {
+        "slug": "maxhealthfix",
+        "title": "Max Health Fix",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 492246,
+        "slug": "max-health-fix",
+        "title": "Max Health Fix"
+      },
+      "curseforge_file": {
+        "id": 5378283,
+        "displayName": "MaxHealthFix-Forge-1.20.1-12.0.3.jar",
+        "fileName": "MaxHealthFix-Forge-1.20.1-12.0.3.jar"
+      }
+    },
+    {
+      "name": "McJtyLib",
+      "version": "1.20-8.0.7",
+      "modrinth": {
+        "slug": "mcjtylib",
+        "title": "McJtyLib",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 233105,
+        "slug": "mcjtylib",
+        "title": "McJtyLib"
+      },
+      "curseforge_file": {
+        "id": 6586028,
+        "displayName": "McJtyLib - 1.20-8.0.7",
+        "fileName": "mcjtylib-1.20-8.0.7.jar"
+      }
+    },
+    {
+      "name": "Measurements",
+      "version": "2.0.1",
+      "modrinth": {
+        "slug": "measurements",
+        "title": "Measurements",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "zvV0pT1y",
+        "number": "2.0.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Mekanism",
+      "version": "10.4.16",
+      "modrinth": {
+        "slug": "mekanism",
+        "title": "Mekanism",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "uxe1WQp4",
+        "number": "10.4.16.80"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Mekanism: Additions",
+      "version": "10.4.16",
+      "modrinth": {
+        "slug": "mekanism-additions",
+        "title": "Mekanism Additions",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "RFiZ24he",
+        "number": "10.4.16.80"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Mekanism: Generators",
+      "version": "10.4.16",
+      "modrinth": {
+        "slug": "mekanism-generators",
+        "title": "Mekanism Generators",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "Th4Czz4N",
+        "number": "10.4.16.80"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Mekanism: Tools",
+      "version": "10.4.16",
+      "modrinth": {
+        "slug": "mekanism-tools",
+        "title": "Mekanism Tools",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "VzpFbUpF",
+        "number": "10.4.16.80"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "MineColonies",
+      "version": "1.20.1-1.1.1079-snapshot",
+      "modrinth": {
+        "slug": "minecolonies",
+        "title": "Minecolonies",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 245506,
+        "slug": "minecolonies",
+        "title": "MineColonies"
+      },
+      "curseforge_file": {
+        "id": 7152498,
+        "displayName": "minecolonies-1.20.1-1.1.1079-snapshot.jar",
+        "fileName": "minecolonies-1.20.1-1.1.1079-snapshot.jar"
+      }
+    },
+    {
+      "name": "MineColonies \\- Bluemap Integration",
+      "version": "1.0.1",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "MineColonies for ComputerCraft",
+      "version": "2.6.5",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Miner's Delight",
+      "version": "1.20.1-1.2.3",
+      "modrinth": {
+        "slug": "miners-delight",
+        "title": "Miner's Delight",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "loZ09szX",
+        "number": "1.20.1-1.2.3"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "MiniCoal",
+      "version": "1.20-1.0.0",
+      "modrinth": {
+        "slug": "minicoal",
+        "title": "MiniCoal",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "MrdzbR3b",
+        "number": "1.20-1.0.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Mod Name Tooltip",
+      "version": "1.20.0",
+      "modrinth": {
+        "slug": "mod-name-tooltip",
+        "title": "Mod Name Tooltip",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 238747,
+        "slug": "mod-name-tooltip",
+        "title": "Mod Name Tooltip"
+      },
+      "curseforge_file": {
+        "id": 4652448,
+        "displayName": "modnametooltip-1.20.1-1.20.0.jar",
+        "fileName": "modnametooltip-1.20.1-1.20.0.jar"
+      }
+    },
+    {
+      "name": "Model Gap Fix",
+      "version": "1.15",
+      "modrinth": {
+        "slug": "modelfix",
+        "title": "Model Gap Fix",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "og4A1nN8",
+        "number": "1.15"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "ModernFix",
+      "version": "5.24.4+mc1.20.1",
+      "modrinth": {
+        "slug": "modernfix",
+        "title": "ModernFix",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 790626,
+        "slug": "modernfix",
+        "title": "ModernFix"
+      },
+      "curseforge_file": {
+        "id": 6837713,
+        "displayName": "modernfix-forge-5.24.4+mc1.20.1.jar",
+        "fileName": "modernfix-forge-5.24.4+mc1.20.1.jar"
+      }
+    },
+    {
+      "name": "Mods Optimizer",
+      "version": "4.1.0",
+      "modrinth": {
+        "slug": "mods-optimizer",
+        "title": "Mods Optimizer",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 947247,
+        "slug": "mods-optimizer",
+        "title": "Mods Optimizer"
+      },
+      "curseforge_file": {
+        "id": 6519178,
+        "displayName": "mods_optimizer-forge-1.20.1-4.1.0.jar",
+        "fileName": "mods_optimizer-forge-1.20.1-4.1.0.jar"
+      }
+    },
+    {
+      "name": "Moonlight Library",
+      "version": "1.20-2.16.15",
+      "modrinth": {
+        "slug": "moonlight",
+        "title": "Moonlight Lib",
+        "score": 0.8571428571428571
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "More Axolotl Variants API",
+      "version": "1.1.4",
+      "modrinth": {
+        "slug": "mavapi",
+        "title": "More Axolotl Variants API",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "DwZgKHDi",
+        "number": "1.1.4"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "More Axolotl Variants Mod",
+      "version": "1.2.6",
+      "modrinth": {
+        "slug": "mavm",
+        "title": "More Axolotl Variants Mod",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "Io4Kzgcn",
+        "number": "1.2.6"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "More Dragon Eggs",
+      "version": "4.0",
+      "modrinth": {
+        "slug": "more-useful-dragon-egg",
+        "title": "More useful Dragon Egg",
+        "score": 0.7878787878787878
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 358700,
+        "slug": "more-dragon-eggs",
+        "title": "More Dragon Eggs"
+      },
+      "curseforge_file": {
+        "id": 4670879,
+        "displayName": "moredragoneggs-4.0.jar",
+        "fileName": "moredragoneggs-4.0.jar"
+      }
+    },
+    {
+      "name": "More Mekanism Processing",
+      "version": "4.4",
+      "modrinth": {
+        "slug": "more-mekanism-processing",
+        "title": "More Mekanism Processing",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "More Mob Variants",
+      "version": "1.3.0.1",
+      "modrinth": {
+        "slug": "more-mob-variants",
+        "title": "More Mob Variants",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "qtpseir7",
+        "number": "1.3.0.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "More Red",
+      "version": "4.0.0.4",
+      "modrinth": {
+        "slug": "more-red",
+        "title": "More Red",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "nmvr3DB5",
+        "number": "4.0.0.4"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "More Red x CC:Tweaked Compat",
+      "version": "1.20.1-1.0.0",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 867286,
+        "slug": "more-red-x-cc-tweaked-compat",
+        "title": "More Red x CC:Tweaked Compat"
+      },
+      "curseforge_file": {
+        "id": 4650653,
+        "displayName": "MoreRed-CCT-Compat-1.20.1-1.0.0.jar",
+        "fileName": "MoreRed-CCT-Compat-1.20.1-1.0.0.jar"
+      }
+    },
+    {
+      "name": "Mouse Tweaks",
+      "version": "2.25.1",
+      "modrinth": {
+        "slug": "mouse-tweaks",
+        "title": "Mouse Tweaks",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "7JVXOe3K",
+        "number": "1.20.1-2.25.1-forge"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "MrCrayfish's Furniture Mod: Refurbished",
+      "version": "1.0.20",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Multi\\-Piston",
+      "version": "1.20-0.0.47-snapshot",
+      "modrinth": {
+        "slug": "multi-mine",
+        "title": "Multi Mine",
+        "score": 0.7
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 303278,
+        "slug": "multi-piston",
+        "title": "Multi-Piston"
+      },
+      "curseforge_file": {
+        "id": 7097889,
+        "displayName": "multipiston-1.20-0.0.47-snapshot.jar",
+        "fileName": "multipiston-1.20-0.0.47-snapshot.jar"
+      }
+    },
+    {
+      "name": "Mystical Adaptations",
+      "version": "1.20.1-1.0.1",
+      "modrinth": {
+        "slug": "mystical-adaptations",
+        "title": "Mystical Adaptations",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "WdCcexbZ",
+        "number": "1.20.1-1.0.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Mystical Agradditions",
+      "version": "7.0.11",
+      "modrinth": {
+        "slug": "mystical-agradditions",
+        "title": "Mystical Agradditions",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "2HH3MNTl",
+        "number": "7.0.11"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Mystical Agriculture",
+      "version": "7.0.23",
+      "modrinth": {
+        "slug": "mystical-agriculture",
+        "title": "Mystical Agriculture",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 246640,
+        "slug": "mystical-agriculture",
+        "title": "Mystical Agriculture"
+      },
+      "curseforge_file": {
+        "id": 6880326,
+        "displayName": "MysticalAgriculture-1.20.1-7.0.23.jar",
+        "fileName": "MysticalAgriculture-1.20.1-7.0.23.jar"
+      }
+    },
+    {
+      "name": "Mystical Customization",
+      "version": "5.0.3",
+      "modrinth": {
+        "slug": "mystical-customization",
+        "title": "Mystical Customization",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "mh67MHTQ",
+        "number": "5.0.3"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Mystical Garden Cloches",
+      "version": "1.0.0",
+      "modrinth": {
+        "slug": "mystical-garden-cloches",
+        "title": "Mystical Garden Cloches",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "V05SRI2n",
+        "number": "1.0.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "NaNny",
+      "version": "1.0.1",
+      "modrinth": {
+        "slug": "nanny",
+        "title": "NaNny",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "xmdj69Pa",
+        "number": "1.0.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Nature's Compass",
+      "version": "1.20.1-1.11.2-forge",
+      "modrinth": {
+        "slug": "natures-compass",
+        "title": "Nature's Compass",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "Og40jCNX",
+        "number": "1.20.1-1.11.2-forge"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Neruina",
+      "version": "2.1.2",
+      "modrinth": {
+        "slug": "neruina",
+        "title": "Neruina - Ticking Entity Fixer",
+        "score": 0.4375
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 851046,
+        "slug": "neruina",
+        "title": "Neruina - Ticking Entity Fixer"
+      },
+      "curseforge_file": {
+        "id": 5666519,
+        "displayName": "Neruina Forge 2.1.2 for 1.20.1",
+        "fileName": "Neruina-2.1.2-forge+1.20.1.jar"
+      }
+    },
+    {
+      "name": "NetherPortalFix",
+      "version": "13.0.1",
+      "modrinth": {
+        "slug": "netherportalfix",
+        "title": "NetherPortalFix",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "cWPAnu7u",
+        "number": "13.0.1+forge-1.20"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Night Lights",
+      "version": "1.1",
+      "modrinth": {
+        "slug": "nightlights",
+        "title": "Night Lights",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "7QFRIFZg",
+        "number": "1.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "No Villager Death Messages",
+      "version": "5.0.0",
+      "modrinth": {
+        "slug": "no-villager-death-messages",
+        "title": "No Villager Death Messages",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "CFsPNtJs",
+        "number": "5.0.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Not Enough Glyphs",
+      "version": "1.20.1-3.2.1.1",
+      "modrinth": {
+        "slug": "not-enough-pets",
+        "title": "Not Enough Pets",
+        "score": 0.7857142857142857
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 1023517,
+        "slug": "not-enough-glyphs",
+        "title": "Not Enough Glyphs"
+      },
+      "curseforge_file": {
+        "id": 5609146,
+        "displayName": "not_enough_glyphs-1.20.1-3.2.1.1.jar",
+        "fileName": "not_enough_glyphs-1.20.1-3.2.1.1.jar"
+      }
+    },
+    {
+      "name": "Nullscape",
+      "version": "1.2.8",
+      "modrinth": {
+        "slug": "nullscape",
+        "title": "Nullscape",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "QsRKydVt",
+        "number": "1.2.8"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Oculus",
+      "version": "1.8.0",
+      "modrinth": {
+        "slug": "oculus",
+        "title": "Oculus",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "iQ1SwGc3",
+        "number": "1.20.1-1.8.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Oh The Biomes We've Gone",
+      "version": "1.6.6",
+      "modrinth": {
+        "slug": "oh-the-biomes-weve-gone",
+        "title": "Oh The Biomes We've Gone",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 1070751,
+        "slug": "oh-the-biomes-weve-gone",
+        "title": "Oh The Biomes We've Gone"
+      },
+      "curseforge_file": {
+        "id": 7040595,
+        "displayName": "Oh-The-Biomes-Weve-Gone-Forge-1.6.6",
+        "fileName": "Oh-The-Biomes-Weve-Gone-Forge-1.6.6.jar"
+      }
+    },
+    {
+      "name": "Oh The Trees You'll Grow",
+      "version": "1.4.2",
+      "modrinth": {
+        "slug": "oh-the-trees-youll-grow",
+        "title": "Oh The Trees You'll Grow",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 962544,
+        "slug": "oh-the-trees-youll-grow",
+        "title": "Oh The Trees You'll Grow"
+      },
+      "curseforge_file": {
+        "id": 7096323,
+        "displayName": "Oh The Trees You'll Grow-Forge-1.20.1-1.4.2",
+        "fileName": "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.4.2.jar"
+      }
+    },
+    {
+      "name": "PacketFixer",
+      "version": "3.3.0",
+      "modrinth": {
+        "slug": "packet-fixer",
+        "title": "Packet Fixer",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 689467,
+        "slug": "packet-fixer",
+        "title": "Packet Fixer"
+      },
+      "curseforge_file": {
+        "id": 6940439,
+        "displayName": "Packet Fixer 3.3.0",
+        "fileName": "packetfixer-3.3.0-1.18-1.20.4-merged.jar"
+      }
+    },
+    {
+      "name": "Patchouli",
+      "version": "1.20.1-84.1-FORGE",
+      "modrinth": {
+        "slug": "patchouli",
+        "title": "Patchouli",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "8Qyw08ld",
+        "number": "1.20.1-84.1-forge"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Paxi",
+      "version": "1.20-Forge-4.0",
+      "modrinth": {
+        "slug": "paxi",
+        "title": "Paxi",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "C7buFh0l",
+        "number": "1.20-Forge-4.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Placebo",
+      "version": "8.6.3",
+      "modrinth": {
+        "slug": "placebo",
+        "title": "Placebo",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 283644,
+        "slug": "placebo",
+        "title": "Placebo"
+      },
+      "curseforge_file": {
+        "id": 6274231,
+        "displayName": "Placebo-1.20.1-8.6.3.jar",
+        "fileName": "Placebo-1.20.1-8.6.3.jar"
+      }
+    },
+    {
+      "name": "Platform",
+      "version": "1.2.10.1",
+      "modrinth": {
+        "slug": "platform",
+        "title": "Platform",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "JbxK24WC",
+        "number": "1.20.1-1.2.10.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Polymorph",
+      "version": "0.49.10+1.20.1",
+      "modrinth": {
+        "slug": "polymorph",
+        "title": "Polymorph",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 388800,
+        "slug": "polymorph",
+        "title": "Polymorph (Fabric/Forge/Quilt)"
+      },
+      "curseforge_file": {
+        "id": 6450982,
+        "displayName": "polymorph-forge-0.49.10+1.20.1.jar",
+        "fileName": "polymorph-forge-0.49.10+1.20.1.jar"
+      }
+    },
+    {
+      "name": "Polymorphic Energistics",
+      "version": "0.1.1-1.20.1",
+      "modrinth": {
+        "slug": "polymorphic-energistics",
+        "title": "Polymorphic Energistics",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "tCb9SvuL",
+        "number": "forge-0.1.1-1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Powah",
+      "version": "5.0.11",
+      "modrinth": {
+        "slug": "powah",
+        "title": "Powah!",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "xDOvxyqP",
+        "number": "5.0.11-forge"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Prefab",
+      "version": "1.10.0.1",
+      "modrinth": {
+        "slug": "prefab",
+        "title": "Prefab",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "ZlrnxNhh",
+        "number": "1.10.0.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Project Expansion",
+      "version": "1.20.1-1.1.2",
+      "modrinth": {
+        "slug": "project-expansion",
+        "title": "Project Expansion",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 579177,
+        "slug": "project-expansion",
+        "title": "Project Expansion"
+      },
+      "curseforge_file": {
+        "id": 5772569,
+        "displayName": "[1.20.1] 1.1.2",
+        "fileName": "ProjectExpansion-1.20.1-1.1.2.jar"
+      }
+    },
+    {
+      "name": "ProjectE",
+      "version": "1.0.1",
+      "modrinth": {
+        "slug": "projecteteams",
+        "title": "ProjectETeams",
+        "score": 0.7619047619047619
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 226410,
+        "slug": "projecte",
+        "title": "ProjectE"
+      },
+      "curseforge_file": {
+        "id": 4901949,
+        "displayName": "ProjectE-1.20.1-PE1.0.1.jar",
+        "fileName": "ProjectE-1.20.1-PE1.0.1.jar"
+      }
+    },
+    {
+      "name": "ProjectRed Core",
+      "version": "4.21.0",
+      "modrinth": {
+        "slug": "project-red-core",
+        "title": "Project Red Core",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "jhpBRUqn",
+        "number": "4.21.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "ProjectRed Expansion",
+      "version": "4.21.0",
+      "modrinth": {
+        "slug": "project-red-expansion",
+        "title": "Project Red Expansion",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "mUZSrnRK",
+        "number": "4.21.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "ProjectRed Exploration",
+      "version": "4.21.0",
+      "modrinth": {
+        "slug": "project-red-exploration",
+        "title": "Project Red Exploration",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "piADj6R5",
+        "number": "4.21.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "ProjectRed Fabrication",
+      "version": "4.21.0",
+      "modrinth": {
+        "slug": "project-red-fabrication",
+        "title": "Project Red Fabrication",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "CDc9EZEc",
+        "number": "4.21.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "ProjectRed Illumination",
+      "version": "4.21.0",
+      "modrinth": {
+        "slug": "project-red-illumination",
+        "title": "Project Red Illumination",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "gY5ES9Az",
+        "number": "4.21.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "ProjectRed Integration",
+      "version": "4.21.0",
+      "modrinth": {
+        "slug": "project-red-integration",
+        "title": "Project Red Integration",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "FY2tuztw",
+        "number": "4.21.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "ProjectRed Transmission",
+      "version": "4.21.0",
+      "modrinth": {
+        "slug": "project-red-transmission",
+        "title": "Project Red Transmission",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "Gxifp83B",
+        "number": "4.21.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Quark",
+      "version": "4.0-462",
+      "modrinth": {
+        "slug": "quark",
+        "title": "Quark",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "DijQLauD",
+        "number": "1.20.1-4.0-462"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "RFToolsBase",
+      "version": "1.20-5.0.6",
+      "modrinth": {
+        "slug": "rftools-base",
+        "title": "RFTools Base",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "fWmfU5lV",
+        "number": "1.20-5.0.6"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "RSInfinityBooster",
+      "version": "1.20.1-1.0+41",
+      "modrinth": {
+        "slug": "rsinfinitybooster",
+        "title": "RSInfinityBooster",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "UkT7CCGr",
+        "number": "1.20.1-1.0+41"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "RSRequestify",
+      "version": "2.3.3",
+      "modrinth": {
+        "slug": "rs-requestify",
+        "title": "Refined Storage: Requestify",
+        "score": 0.6666666666666666
+      },
+      "modrinth_version": {
+        "id": "Eze5cpB3",
+        "number": "2.3.3"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Redden's Stone Lanterns",
+      "version": "1.0.3",
+      "modrinth": {
+        "slug": "reddens-stone-lanterns",
+        "title": "Redden's Stone Lanterns",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "G4tyc4Ir",
+        "number": "1.0.3"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Redstone Pen",
+      "version": "1.3.33",
+      "modrinth": {
+        "slug": "redstonepen",
+        "title": "Redstone Pen",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "3sQAAW5F",
+        "number": "1.3.33"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Refined Cooking",
+      "version": "4.0.0",
+      "modrinth": {
+        "slug": "refined-cooking",
+        "title": "Refined Cooking",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "7M3am6zk",
+        "number": "4.0.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Refined Crafter Proxy",
+      "version": "4.1.2",
+      "modrinth": {
+        "slug": "refinedcrafterproxy",
+        "title": "Refined Crafter Proxy",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "UPSlaxr4",
+        "number": "4.1.2"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Refined Polymorphism",
+      "version": "0.1.1-1.20.1",
+      "modrinth": {
+        "slug": "refined-polymorphism",
+        "title": "Refined Polymorphism",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "XSjAWIAk",
+        "number": "0.1.1-1.20.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Refined Storage",
+      "version": "1.12.4",
+      "modrinth": {
+        "slug": "refined-storage",
+        "title": "Refined Storage",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 243076,
+        "slug": "refined-storage",
+        "title": "Refined Storage"
+      },
+      "curseforge_file": {
+        "id": 4844585,
+        "displayName": "v1.12.4",
+        "fileName": "refinedstorage-1.12.4.jar"
+      }
+    },
+    {
+      "name": "Refined Storage Addons",
+      "version": "0.10.0",
+      "modrinth": {
+        "slug": "refined-storage-addons",
+        "title": "Refined Storage Addons",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "tdH61AWD",
+        "number": "0.10.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Resourceful Lib",
+      "version": "2.1.29",
+      "modrinth": {
+        "slug": "resourceful-lib",
+        "title": "Resourceful Lib",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 570073,
+        "slug": "resourceful-lib",
+        "title": "Resourceful Lib"
+      },
+      "curseforge_file": {
+        "id": 5659871,
+        "displayName": "[Forge] Resourceful Lib 2.1.29",
+        "fileName": "resourcefullib-forge-1.20.1-2.1.29.jar"
+      }
+    },
+    {
+      "name": "Resourcefulconfig",
+      "version": "2.1.3",
+      "modrinth": {
+        "slug": "resourceful-config",
+        "title": "Resourceful Config",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Right Click Harvest",
+      "version": "4.6.0+1.20.1",
+      "modrinth": {
+        "slug": "right-click-harvest",
+        "title": "Right-Click-Harvest",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 517494,
+        "slug": "right-click-harvest",
+        "title": "Right-Click-Harvest"
+      },
+      "curseforge_file": null
+    },
+    {
+      "name": "Ritchie's Projectile Library",
+      "version": "2.1.0",
+      "modrinth": {
+        "slug": "rpl",
+        "title": "Ritchie's Projectile Library",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "MxClZxbS",
+        "number": "2.1.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Saros Road signs mod",
+      "version": "4.4",
+      "modrinth": {
+        "slug": "saros-road-signs",
+        "title": "Saro´s Road Signs",
+        "score": 0.9032258064516129
+      },
+      "modrinth_version": {
+        "id": "oyrVQiRG",
+        "number": "4.4"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Saro´s Construction Mod",
+      "version": "1.6.3",
+      "modrinth": {
+        "slug": "saros-construction",
+        "title": "Saro´s Construction",
+        "score": 0.918918918918919
+      },
+      "modrinth_version": {
+        "id": "VN1CGe50",
+        "number": "1.6.3"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Saro´s Fruit Trees Mod",
+      "version": "3.0",
+      "modrinth": {
+        "slug": "saros-fruit-trees",
+        "title": "Saro´s Fruit Trees",
+        "score": 0.9090909090909091
+      },
+      "modrinth_version": {
+        "id": "1VLJoWdM",
+        "number": "3.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Saro´s Money Mod",
+      "version": "3.5.5",
+      "modrinth": {
+        "slug": "saros-money",
+        "title": "Saro´s Money",
+        "score": 0.8695652173913043
+      },
+      "modrinth_version": {
+        "id": "fsqE73ni",
+        "number": "3.5.5"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Saro´s Road Blocks Mod",
+      "version": "4.0",
+      "modrinth": {
+        "slug": "saros-road-blocks",
+        "title": "Saro´s Road Blocks",
+        "score": 0.9090909090909091
+      },
+      "modrinth_version": {
+        "id": "BVINZciZ",
+        "number": "4.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Scannable",
+      "version": "1.7.12+18ccb75",
+      "modrinth": {
+        "slug": "scannable",
+        "title": "Scannable",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 266784,
+        "slug": "scannable",
+        "title": "Scannable"
+      },
+      "curseforge_file": {
+        "id": 4763070,
+        "displayName": "Scannable-MC1.20.1-1.7.12",
+        "fileName": "scannable-MC1.20.1-forge-1.7.12+18ccb75.jar"
+      }
+    },
+    {
+      "name": "Schematic Energistics",
+      "version": "1.3.0",
+      "modrinth": {
+        "slug": "schematic-energistics",
+        "title": "Schematic Energistics",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "gsFUv5lg",
+        "number": "1.3.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Searchables",
+      "version": "1.0.3",
+      "modrinth": {
+        "slug": "searchables",
+        "title": "Searchables",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "PM9yAW1G",
+        "number": "1.0.3"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Sebastrn Lib",
+      "version": "4.0.0",
+      "modrinth": {
+        "slug": "sebastrnlib",
+        "title": "SebastrnLib",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "HTnN2Qop",
+        "number": "4.0.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Simple Inventory Sorter",
+      "version": "23.0.8",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Simple Radio",
+      "version": "3.4.6",
+      "modrinth": {
+        "slug": "simple-radio",
+        "title": "Simple Radio",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "YNYTaait",
+        "number": "3.4.6"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Simple Voice Chat",
+      "version": "1.20.1-2.6.6",
+      "modrinth": {
+        "slug": "simple-voice-chat",
+        "title": "Simple Voice Chat",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Sodium Dynamic Lights",
+      "version": "1.0.9",
+      "modrinth": {
+        "slug": "sodium-dynamic-lights",
+        "title": "Sodium Dynamic Lights",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "ICS39k7F",
+        "number": "1.0.9"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Sodium Options API",
+      "version": "1.0.10",
+      "modrinth": {
+        "slug": "sodium-options-api",
+        "title": "Sodium Options API",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "d0EFLitO",
+        "number": "forge-1.20.1-1.0.10"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Solar Flux Reborn",
+      "version": "20.1.11",
+      "modrinth": {
+        "slug": "solar-flux-reborn",
+        "title": "Solar Flux Reborn",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "bn1AYdI6",
+        "number": "20.1.11"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Sophisticated Backpacks",
+      "version": "3.24.10.1404",
+      "modrinth": {
+        "slug": "sophisticated-backpacks",
+        "title": "Sophisticated Backpacks",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 422301,
+        "slug": "sophisticated-backpacks",
+        "title": "Sophisticated Backpacks"
+      },
+      "curseforge_file": {
+        "id": 7116643,
+        "displayName": "sophisticatedbackpacks-1.20.1-3.24.10.1404.jar",
+        "fileName": "sophisticatedbackpacks-1.20.1-3.24.10.1404.jar"
+      }
+    },
+    {
+      "name": "Sophisticated Backpacks Create Integration",
+      "version": "0.1.4.24",
+      "modrinth": {
+        "slug": "sophisticated-backpacks-create-integration",
+        "title": "Sophisticated Backpacks Create Integration",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "SzBPdq6E",
+        "number": "1.20.1-0.1.4.24"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Sophisticated Core",
+      "version": "1.2.105.1230",
+      "modrinth": {
+        "slug": "sophisticated-core",
+        "title": "Sophisticated Core",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Sophisticated Storage",
+      "version": "1.4.13.1350",
+      "modrinth": {
+        "slug": "sophisticated-storage",
+        "title": "Sophisticated Storage",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 619320,
+        "slug": "sophisticated-storage",
+        "title": "Sophisticated Storage"
+      },
+      "curseforge_file": {
+        "id": 7106443,
+        "displayName": "sophisticatedstorage-1.20.1-1.4.13.1350.jar",
+        "fileName": "sophisticatedstorage-1.20.1-1.4.13.1350.jar"
+      }
+    },
+    {
+      "name": "Sophisticated Storage Create Integration",
+      "version": "0.1.13.48",
+      "modrinth": {
+        "slug": "sophisticated-storage-create-integration",
+        "title": "Sophisticated Storage Create Integration",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "wYHK6ohc",
+        "number": "1.20.1-0.1.13.48"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Spice of Life: Carrot Edition",
+      "version": "1.15.1",
+      "modrinth": {
+        "slug": "spice-of-life-valheim-edition",
+        "title": "Spice of Life: Valheim Edition",
+        "score": 0.7755102040816326
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 277616,
+        "slug": "spice-of-life-carrot-edition",
+        "title": "Spice of Life: Carrot Edition"
+      },
+      "curseforge_file": {
+        "id": 4888575,
+        "displayName": "solcarrot-1.20.1-1.15.1.jar",
+        "fileName": "solcarrot-1.20.1-1.15.1.jar"
+      }
+    },
+    {
+      "name": "Starbunclemania",
+      "version": "1.20.1-1.2.3.0",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 746215,
+        "slug": "starbunclemania",
+        "title": "StarbuncleMania"
+      },
+      "curseforge_file": {
+        "id": 5908851,
+        "displayName": "starbunclemania-1.20.1-1.2.3.0.jar",
+        "fileName": "starbunclemania-1.20.1-1.2.3.0.jar"
+      }
+    },
+    {
+      "name": "Storage Drawers",
+      "version": "12.14.3",
+      "modrinth": {
+        "slug": "storagedrawers",
+        "title": "Storage Drawers",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 223852,
+        "slug": "storage-drawers",
+        "title": "Storage Drawers"
+      },
+      "curseforge_file": {
+        "id": 6994481,
+        "displayName": "Storage Drawers-1.20.1-forge-12.14.3",
+        "fileName": "StorageDrawers-forge-1.20.1-12.14.3.jar"
+      }
+    },
+    {
+      "name": "Structurize",
+      "version": "1.20.1-1.0.784-snapshot",
+      "modrinth": {
+        "slug": "ars-structurize",
+        "title": "Ars Structurize",
+        "score": 0.88
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 298744,
+        "slug": "structurize",
+        "title": "Structurize"
+      },
+      "curseforge_file": {
+        "id": 7041348,
+        "displayName": "structurize-1.20.1-1.0.784-snapshot.jar",
+        "fileName": "structurize-1.20.1-1.0.784-snapshot.jar"
+      }
+    },
+    {
+      "name": "SuperMartijn642's Config Library",
+      "version": "1.1.8",
+      "modrinth": {
+        "slug": "supermartijn642s-config-lib",
+        "title": "SuperMartijn642's Config Lib",
+        "score": 0.9259259259259259
+      },
+      "modrinth_version": {
+        "id": "ZKor79dR",
+        "number": "1.1.8-forge-mc1.20"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "SuperMartijn642's Core Lib",
+      "version": "1.1.18",
+      "modrinth": {
+        "slug": "supermartijn642s-core-lib",
+        "title": "SuperMartijn642's Core Lib",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Supplementaries",
+      "version": "1.20-3.1.41",
+      "modrinth": {
+        "slug": "supplementaries",
+        "title": "Supplementaries",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 412082,
+        "slug": "supplementaries",
+        "title": "Supplementaries"
+      },
+      "curseforge_file": {
+        "id": 7113231,
+        "displayName": "supplementaries-1.20-3.1.41.jar",
+        "fileName": "supplementaries-1.20-3.1.41.jar"
+      }
+    },
+    {
+      "name": "Supplementaries Squared",
+      "version": "1.20-1.1.26",
+      "modrinth": {
+        "slug": "supplementaries-squared",
+        "title": "Supplementaries Squared",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "IMFQf21R",
+        "number": "1.20-1.1.26"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Team Project Expansion",
+      "version": "1.2.0",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 1144668,
+        "slug": "team-project-expansion",
+        "title": "Team Project Expansion"
+      },
+      "curseforge_file": {
+        "id": 5928698,
+        "displayName": "TeamProjectExpansion-1.20.1-1.2.0.jar",
+        "fileName": "TeamProjectExpansion-1.20.1-1.2.0.jar"
+      }
+    },
+    {
+      "name": "Team ProjectE",
+      "version": "1.1.4",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Teerth's Traffic Control Mod",
+      "version": "5.5.0",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "TerraBlender",
+      "version": "3.0.1.10",
+      "modrinth": {
+        "slug": "terrablender",
+        "title": "TerraBlender",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Terralith",
+      "version": "2.5.4",
+      "modrinth": {
+        "slug": "terralith",
+        "title": "Terralith",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "WeYhEb5d",
+        "number": "2.5.4"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Tetranomicon",
+      "version": "1.6.1-1.20.1",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "The One Probe",
+      "version": "1.20.1-10.0.3",
+      "modrinth": {
+        "slug": "the-one-probe",
+        "title": "The One Probe",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 245211,
+        "slug": "the-one-probe",
+        "title": "The One Probe"
+      },
+      "curseforge_file": {
+        "id": 6106996,
+        "displayName": "TheOneProbe - 1.20.1-10.0.3",
+        "fileName": "theoneprobe-1.20.1-10.0.3.jar"
+      }
+    },
+    {
+      "name": "The Twilight Forest",
+      "version": "4.3.2508",
+      "modrinth": {
+        "slug": "croparium-the-twilight-forest",
+        "title": "Croparium: the Twilight Forest",
+        "score": 0.7906976744186046
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 227639,
+        "slug": "the-twilight-forest",
+        "title": "The Twilight Forest"
+      },
+      "curseforge_file": {
+        "id": 5468648,
+        "displayName": "Twilight Forest - MC 1.20.1 - 4.3.2508",
+        "fileName": "twilightforest-1.20.1-4.3.2508-universal.jar"
+      }
+    },
+    {
+      "name": "Time In A Bottle",
+      "version": "4.0.4-mc1.20.1",
+      "modrinth": {
+        "slug": "time-in-a-bottle-universal",
+        "title": "Time in a bottle",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Toast Control",
+      "version": "8.0.3",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 271740,
+        "slug": "toast-control",
+        "title": "Toast Control"
+      },
+      "curseforge_file": {
+        "id": 4711316,
+        "displayName": "ToastControl-1.20.1-8.0.3.jar",
+        "fileName": "ToastControl-1.20.1-8.0.3.jar"
+      }
+    },
+    {
+      "name": "Too Fast",
+      "version": "0.4.3.5",
+      "modrinth": {
+        "slug": "too-fast",
+        "title": "Too Fast",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "2pix3xrW",
+        "number": "0.4.3.5"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Too Many Glyphs",
+      "version": "2.3.2.12345",
+      "modrinth": {
+        "slug": "tmp",
+        "title": "Too Many Players",
+        "score": 0.7407407407407407
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 560595,
+        "slug": "too-many-glyphs",
+        "title": "Too Many Glyphs"
+      },
+      "curseforge_file": {
+        "id": 4813803,
+        "displayName": "toomanyglyphs-1.20.1-2.3.2.12345.jar",
+        "fileName": "toomanyglyphs-1.20.1-2.3.2.12345.jar"
+      }
+    },
+    {
+      "name": "Torchmaster",
+      "version": "20.1.9",
+      "modrinth": {
+        "slug": "torchmaster",
+        "title": "TorchMaster",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "OTbqpyC8",
+        "number": "20.1.9"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "TownTalk",
+      "version": "1.1.0",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 900364,
+        "slug": "towntalk",
+        "title": "TownTalk"
+      },
+      "curseforge_file": {
+        "id": 5355511,
+        "displayName": "TownTalk 1.20 1.1.0",
+        "fileName": "towntalk-1.20.1-1.1.0.jar"
+      }
+    },
+    {
+      "name": "Trash Cans",
+      "version": "1.0.18b",
+      "modrinth": {
+        "slug": "trash-cans",
+        "title": "Trash Cans",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "Q0Ym1HHm",
+        "number": "1.0.18b-forge-mc1.20"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Trials Chambers",
+      "version": "2.3.3",
+      "modrinth": {
+        "slug": "trials-chambers-backport",
+        "title": "Trials Chambers [1.20.1 Backport]",
+        "score": 0.7
+      },
+      "modrinth_version": {
+        "id": "ydomBxLa",
+        "number": "2.3.3"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "TxniLib",
+      "version": "1.0.24",
+      "modrinth": {
+        "slug": "txnilib",
+        "title": "TxniLib",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "kQ8qnDHA",
+        "number": "forge-1.20.1-1.0.24"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "UI Library Mod",
+      "version": "1.20.1-1.0.194",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "ValkyrieLib",
+      "version": "1.20.1-4.0.5.0",
+      "modrinth": {
+        "slug": "valkyrielib",
+        "title": "ValkyrieLib",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 245480,
+        "slug": "valkyrielib",
+        "title": "ValkyrieLib"
+      },
+      "curseforge_file": {
+        "id": 6730602,
+        "displayName": "valkyrielib-forge-1.20.1-4.0.5.0.jar",
+        "fileName": "valkyrielib-forge-1.20.1-4.0.5.0.jar"
+      }
+    },
+    {
+      "name": "VanillaBackport",
+      "version": "1.1.4.3",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 417430,
+        "slug": "vanillabackport",
+        "title": "Vanilla Backport: Chase the Skies, The Garden Awakens"
+      },
+      "curseforge_file": {
+        "id": 6696334,
+        "displayName": "vanillabackport-forge-1.20.1-1.1.4.3.jar",
+        "fileName": "vanillabackport-forge-1.20.1-1.1.4.3.jar"
+      }
+    },
+    {
+      "name": "Walkie\\-Talkie",
+      "version": "1.3.0",
+      "modrinth": {
+        "slug": "walkie-talkie",
+        "title": "Walkie-Talkie",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "SSQlCOGW",
+        "number": "forge-1.3.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Waystones",
+      "version": "14.1.17",
+      "modrinth": {
+        "slug": "waystones",
+        "title": "Waystones",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 245755,
+        "slug": "waystones",
+        "title": "Waystones"
+      },
+      "curseforge_file": {
+        "id": 6856603,
+        "displayName": "waystones-forge-1.20.1-14.1.17.jar",
+        "fileName": "waystones-forge-1.20.1-14.1.17.jar"
+      }
+    },
+    {
+      "name": "Waystones pets addon",
+      "version": "0.0.7",
+      "modrinth": {
+        "slug": "waystones-pets-addon",
+        "title": "Waystones pets addon",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "8KK2uFzS",
+        "number": "0.0.7"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "When Dungeons Arise",
+      "version": "2.1.58-1.20.x",
+      "modrinth": {
+        "slug": "when-dungeons-arise",
+        "title": "When Dungeons Arise",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "6hQpx5Tc",
+        "number": "2.1.58-1.20.x"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "When Dungeons Arise: Seven Seas",
+      "version": "1.0.2",
+      "modrinth": {
+        "slug": "when-dungeons-arise-seven-seas",
+        "title": "When Dungeons Arise: Seven Seas",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "AxIOkvEv",
+        "number": "1.0.2"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Wildfire's Female Gender Mod",
+      "version": "1.20.1-3.0.1",
+      "modrinth": {
+        "slug": "female-gender",
+        "title": "Female Gender Mod",
+        "score": 0.7692307692307693
+      },
+      "modrinth_version": {
+        "id": "R1d8TWqL",
+        "number": "1.20.1-3.0.1"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Wither Skeleton Tweaks",
+      "version": "9.1.0",
+      "modrinth": {
+        "slug": "wither-skeleton-totems",
+        "title": "Wither Skeleton Totem",
+        "score": 0.8205128205128205
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 255902,
+        "slug": "wither-skeleton-tweaks",
+        "title": "Wither Skeleton Tweaks"
+      },
+      "curseforge_file": {
+        "id": 5086320,
+        "displayName": "WitherSkeletonTweaks-1.20.1-9.1.0.jar",
+        "fileName": "WitherSkeletonTweaks-1.20.1-9.1.0.jar"
+      }
+    },
+    {
+      "name": "XNet",
+      "version": "1.20-6.1.6",
+      "modrinth": {
+        "slug": "xnet",
+        "title": "XNet",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 260912,
+        "slug": "xnet",
+        "title": "XNet"
+      },
+      "curseforge_file": {
+        "id": 5712546,
+        "displayName": "XNet - 1.20-6.1.6",
+        "fileName": "xnet-1.20-6.1.6.jar"
+      }
+    },
+    {
+      "name": "XNet Gases",
+      "version": "5.1.4",
+      "modrinth": {
+        "slug": "xnet-gases",
+        "title": "XNet Gases",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "Re8BhcS7",
+        "number": "5.1.4"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "YUNG's API",
+      "version": "1.20-Forge-4.0.6",
+      "modrinth": {
+        "slug": "yungs-api",
+        "title": "YUNG's API",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "PJOYAmAs",
+        "number": "1.20-Forge-4.0.6"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Yeetus Experimentus",
+      "version": "2.3.0-build.4+mc1.20.1",
+      "modrinth": {
+        "slug": "yeetus-experimentus",
+        "title": "Yeetus Experimentus",
+        "score": 1.0
+      },
+      "modrinth_version": null,
+      "curseforge": {
+        "id": 635427,
+        "slug": "yeetusexperimentus",
+        "title": "Yeetus Experimentus"
+      },
+      "curseforge_file": {
+        "id": 4589804,
+        "displayName": "YeetusExperimentus-Forge-2.3.0-build.4+mc1.20.1.jar",
+        "fileName": "YeetusExperimentus-Forge-2.3.0-build.4+mc1.20.1.jar"
+      }
+    },
+    {
+      "name": "YetAnotherConfigLib",
+      "version": "3.6.6+1.20.1-forge",
+      "modrinth": {
+        "slug": "yacl",
+        "title": "YetAnotherConfigLib (YACL)",
+        "score": 0.9047619047619048
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "Zeta",
+      "version": "1.0-30",
+      "modrinth": {
+        "slug": "zeta",
+        "title": "Zeta",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "boj4QtcB",
+        "number": "1.20.1-1.0-30"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "backpack allthemodium upgrade",
+      "version": "2.1",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "cataclysm",
+      "version": "3.16",
+      "modrinth": {
+        "slug": "cataclysm-tools",
+        "title": "Cataclysm Tools",
+        "score": 0.782608695652174
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "create\\_stripped\\_log\\_compat",
+      "version": "1",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "gravestonecurioscompat",
+      "version": "3.0.0",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "iChunUtil",
+      "version": "1.0.3",
+      "modrinth": {
+        "slug": "ichunutil",
+        "title": "iChunUtil",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "W6d0pCyu",
+        "number": "1.0.3"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "mutil",
+      "version": "6.2.0",
+      "modrinth": {
+        "slug": "mutil",
+        "title": "mutil",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "8CZJ2gLR",
+        "number": "6.2.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "saros\\_create\\_addon\\_forge",
+      "version": "1.0.0",
+      "modrinth": {
+        "slug": "saros-create",
+        "title": "Saro´s Create addon",
+        "score": 0.8648648648648649
+      },
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "signpost",
+      "version": "2.02.0",
+      "modrinth": {
+        "slug": "signpost",
+        "title": "Signpost",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "yMo35CeV",
+        "number": "2.02.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "storage allthemodium upgrade",
+      "version": "2.1",
+      "modrinth": null,
+      "modrinth_version": null,
+      "curseforge": null,
+      "curseforge_file": null
+    },
+    {
+      "name": "tetra",
+      "version": "6.11.0",
+      "modrinth": {
+        "slug": "tetra",
+        "title": "tetra",
+        "score": 1.0
+      },
+      "modrinth_version": {
+        "id": "hVGjsZK7",
+        "number": "6.11.0"
+      },
+      "curseforge": null,
+      "curseforge_file": null
+    }
+  ]
+}
