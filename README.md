@@ -8,18 +8,20 @@
 - Helper scripts to add mods from CurseForge/Modrinth without rehosting.
 
 ## Quick start (developer)
+> Current target: **Minecraft 1.20.1 (Forge 47.2.20)** as declared in [`pack.toml`](pack.toml). Update those version strings if your pack targets a different release.
+
 1) Install **packwiz**: https://packwiz.infra.link/
 2) Ensure your repo is public. Enable **GitHub Pages** to serve this repo (Settings → Pages).
 3) Edit `pack.toml` author/version if desired.
 4) Add mods via CurseForge/Modrinth providers (examples below).
-5) Commit & push. Your Pages URL will host `pack.toml`, e.g.:  
-   `https://<YOUR_USER>.github.io/<YOUR_REPO>/pack.toml`
+5) Commit & push. Your Pages URL will host `pack.toml`, e.g.:
+   `https://bluehavenboroughs.github.io/BluehavenBoroughs/pack.toml`
 
 ## Adding mods
-Use one of the following (fill the IDs/slugs):
-- CurseForge by **project ID**:  
+Use one of the following (fill the IDs/slugs). The helper scripts in [`scripts/`](scripts/) are executable, so you can copy the relevant `packwiz ... add` lines into your shell and run them directly after replacing the placeholders.
+- CurseForge by **project ID**:
   `packwiz curseforge add <projectId>`
-- Modrinth by **slug or project ID**:  
+- Modrinth by **slug or project ID**:
   `packwiz modrinth add <slug-or-id>`
 
 Then lock hashes (optional) and commit updates:
@@ -36,7 +38,7 @@ packwiz refresh
 - Place it into the instance’s `.minecraft/` folder.
 - In Prism: **Edit Instance → Settings → Custom Commands → Pre-Launch command**:
 ```
-"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://<YOUR_USER>.github.io/<YOUR_REPO>/pack.toml
+"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://bluehavenboroughs.github.io/BluehavenBoroughs/pack.toml
 ```
 - Launch. Mods will auto-download from CurseForge/Modrinth (ARR-compliant).
 

@@ -1,1 +1,5 @@
 hash-format = "sha256"
+
+[[files]]
+file = "overrides/README.txt"
+hash = "1f1b0c5cbeec0ebaa83427b0cb9023ea7c729169f84483606a2542bf9df3b91b"
