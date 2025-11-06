@@ -1,0 +1,406 @@
+- AE2NetworkAnalyzer [1\.20\-1\.0\.6\-forge] by GlodBlock
+- AE2WTLib [15\.3\.0\-forge] by mari\_023, Ridanisaurus, DomamaN202
+- AEInfinityBooster [1\.20\.1\-1\.0\.0\+51]
+- AI\-Improvements [0\.5\.2] by BuiltBrokenModding
+- Accessories [1\.0\.0\-beta46\+1\.20\.1] by Blodhgarm, chyzman, Dr\.Zeal
+- Actually Useful Stonecutter [4\.0\.3 mc 1\.19\.3] by Rohzek, CheshireRose
+- Additional Lanterns [1\.1\.2] by SuperMartijn642
+- Advanced Peripherals [0\.7\.46r] by Srendi
+- Alex's Delight [1\.5] by NCP Bails
+- Alex's Mobs [1\.22\.9] by Alexthe668, Carro1001, Paint\_Ninja
+- AllTheOres [2\.2\.4] by thevortex, whatthedrunk
+- Allthemodium [2\.5\.6] by thevortex, whatthedrunk
+- Almanac [1\.0\.2] by frikinjay
+- AlmostUnified [1\.20\.1\-0\.10\.1] by Almost Reliable
+- Apotheosis [7\.4\.8] by Shadows\_of\_Fire
+- Apothic Attributes [1\.3\.7] by Shadows\_of\_Fire
+- Apothic Cataclysm [1\.0\.1] by lcy0x1
+- AppleSkin [2\.5\.1\+mc1\.20\.1] by squeek
+- Applied Botanics [1\.5\.1] by ramidzkh
+- Applied Cooking [4\.0\.0] by ItsSebastrn
+- Applied Energistics 2 [15\.4\.9] by TeamAppliedEnergistics
+- Applied Mekanistics [1\.4\.2] by ramidzkh
+- Applied Sorting [1\.0\.0] by Meatwo310
+- AppliedE [0\.14\.3] by 90
+- AppliedFlux [1\.20\-1\.3\.4\-forge] by GlodBlock
+- AppliedSchematicannon [1\.0\.1] by zhichaoxi2006
+- Aquaculture 2 [2\.5\.5] by Shadowclaimer, Girafi
+- Architectury [9\.2\.14] by shedaniel
+- Armor of the Ages [1\.3\.11] by Poulpinou
+- Ars Additions [1\.20\.1\-1\.6\.7]
+- Ars Creo [4\.3\.0]
+- Ars Elemental [0\.6\.7\.8] by Alexthw
+- Ars Instrumentum [4\.0\.0] by No one important
+- Ars Nouveau [4\.12\.7] by Bailey Hollingsworth
+- Ars Nouveau's Flavors & Delight [1\.1\.6] by lcy0x1
+- Ars Technica [1\.20\.1\-1\.4\.2] by MCreator
+- Ars Énergistique [1\.2\.0] by 90, dkmk100
+- Athena [3\.1\.2] by ThatGravyBoat
+- AttributeFix [21\.0\.4] by Darkhax
+- Bad Packets [0\.4\.3] by deirn
+- Bad Wither No Cookie Reloaded [3\.17\.2] by Kreezxil, Eleksploded
+- BaguetteLib [1\.1\.1] by Leclowndu93150
+- Balm [7\.3\.37] by BlayTheNinth
+- BedBenefits [13\.0\.3] by Darkhax
+- Better Advancements [0\.4\.2\.25] by way2muchnoise
+- Better Compatibility Checker [3\.0\.1\-build\.58\+mc1\.20] by Gaz
+- Better Mods Button [8\.0\.2] by Fuzs
+- BetterF3 [7\.0\.2] by TreyRuffy and cominixo
+- Blue's Map Addon [2\.3\.0] by BlueIgnus
+- BlueMap [5\.12\-mc1\.20\-6] by Blue \(TBlueF, Lukas Rieger\)
+- Bobber Detector [1\.0\.2] by GLaD0S, Bennyboy1695
+- Bookshelf [20\.2\.13] by Darkhax
+- Botania [1\.20\.1\-450\-FORGE] by Vazkii, wiiv, williewillus, dylan4ever, Hubry, Alwinfy, artemisSystem, Falkory220
+- BotanyPots [13\.0\.41] by Darkhax
+- BotanyTrees [9\.0\.19] by Darkhax
+- Botarium [2\.3\.4] by CodexAdrian
+- Brandon's Core [3\.2\.1\.302] by brandon3055
+- Byzantine [41] by Spumantii
+- CBC Advanced Technology [0\.1\.2b\-1\.20\.1] by \_dsvv
+- CBMultipart [3\.3\.0\.146] by ChickenBones, covers1624
+- CC: Androids [1\.3\.0]
+- CC: Tweaked [1\.116\.1] by Daniel Ratcliffe, Aaron Mills, SquidDev
+- CC:C Bridge [1\.7\.1] by Sammy L\. Koch
+- Caelus API [3\.2\.0\+1\.20\.1] by C4
+- Carry On [2\.1\.2\.7] by Tschipp, Purplicious\_Cow, cy4n
+- Catalogue [1\.8\.0] by MrCrayfish
+- Chalk [1\.6\.6] by mortuusars
+- Chat Heads [0\.14\.0] by dzwdz, Fourmisain
+- ChickenChunks [2\.10\.0\.100] by ChickenBones, covers1624
+- Chipped [3\.0\.7] by Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat
+- Citadel [2\.6\.2] by Alexthe666
+- Clean Swing Through Grass [1\.8] by Raycoms
+- Cloth Config v10 API [11\.1\.136] by shedaniel
+- Clumps [12\.0\.0\.4] by Jaredlll08
+- CodeChicken Lib [4\.4\.0\.516] by ChickenBones, covers1624
+- Cognition [2\.4\.8\-1\.20\.1] by Cyanogen
+- Comforts [6\.4\.0\+1\.20\.1] by Illusive Soulworks
+- CommonCapabilities [2\.9\.10] by rubensworks \(aka kroeser\)
+- Compact Machines [6\.0\.3] by Davenonymous, RobotGryphon
+- Configured [2\.2\.3] by MrCrayfish
+- Connected Glass [1\.1\.14] by SuperMartijn642
+- Construction Wand [1\.20\.1\-2\.11] by ThetaDev
+- Continents [1\.1\.11] by Stardust Labs
+- Controlling [12\.0\.2] by Jaredlll08
+- CookingForBlockheads [16\.0\.14] by BlayTheNinth
+- CorgiLib [4\.0\.3\.4] by Corgi Taco
+- CosmeticArmorReworked [1\.20\.1\-v1a] by zlainsama
+- CraftingTweaks [18\.2\.6] by BlayTheNinth
+- Create [6\.0\.6] by simibubi
+- Create : Totem Factory [1\.0] by Jopleshan
+- Create Big Cannons [5\.9\.1] by rbasamoyai
+- Create Bitterballen [1\.0\.1B] by Pyzpre, VoidMage
+- Create Cafe [1\.2\.4\-1\.20\.1] by 1mphuls3
+- Create Confectionery [1\.1\.0] by Furti\_Two
+- Create Crafts & Additions [1\.20\.1\-1\.3\.2] by MRH0
+- Create Deco [2\.0\.3\-1\.20\.1\-forge] by Kayla, Talrey, Ordana, Cassian
+- Create Encased [1\.7\.2\-fix1] by iglee42
+- Create Enchantment Industry [1\.3\.3\-for\-create\-6\.0\.6] by MarbleGateKeeper & LimonBlaze
+- Create Factory Logistics [1\.4\.6] by zznty
+- Create Fishery Industry [3\.0\.2] by adonis
+- Create Fluid [1\.1\.6] by adonis
+- Create Goggles [6\.1\.0] by Robocraft999
+- Create Hypertube [0\.2\.6\-hotfix] by Rok
+- Create Jetpack [4\.4\.2] by possible\_triangle
+- Create Kart [2\.3\.0] by Stalosir
+- Create Magics [2\.0\.0\-1\.20\.1] by Vastless
+- Create Mechanical Companion [1\.7\-1\.20\.1] by Marcos
+- Create Nuclear [1\.3\.0] by Create Nuclear
+- Create Ore Excavation [1\.6\.4] by tom5454
+- Create Railways Navigator [1\.20\.1\-beta\-0\.8\.4\-C6] by MrJulsen
+- Create Slice & Dice [3\.5\.2] by possible\_triangle
+- Create Stock Bridge [0\.1\.5] by tom5454
+- Create Track Map [1\.5] by LittleChaSiu
+- Create Ultimine [1\.1\.2] by ChAoS\-UnItY
+- Create: Aquatic Ambitions [1\.20\.1\-2\.0\.1] by Davi Oliva
+- Create: Bells & Whistles [0\.4\.3\-1\.20\.x] by lev
+- Create: Buffers & Beams: Overhauled\! [1\.0\.0] by sawye, MCreator
+- Create: CC Total Logistics [0\.3\.7] by xenonli \(xeli\)
+- Create: Central Kitchen [1\.4\.3b] by LimonBlaze, MarbleGate and Etherwood
+- Create: Cheese Factory [1\.3\.0] by robinfrt
+- Create: Compatible Storage [2\.8\.0] by Dadamalda
+- Create: Connected [1\.1\.7\-mc1\.20\.1] by Lysine
+- Create: Copycats\+ [3\.0\.2\+mc\.1\.20\.1\-forge] by Lysine, Bennyboy1695, Redcat\_XVIII
+- Create: Deep Dark [1\.7\.0] by robinfrt
+- Create: Deepfried [0\.1\.3B] by Pyzpre
+- Create: Drill Drain [1\.0\.8] by Cake, Kipti
+- Create: Dynamic Village [0\.4] by sudolev
+- Create: Enchantable Machinery [3\.4\.1] by Cotrin
+- Create: Escalated [1\.1\.0] by rbasamoyai
+- Create: Extra Gauges [2\.0\.7] by LiukRast, Francywott, swzo
+- Create: Factory [0\.4b\-1\.20\.1] by Antopfr
+- Create: Food [1\.1\.11\-forge] by average\_anime
+- Create: Framed [1\.6\.5] by DakotaPride
+- Create: Garnished [2\.1\.2] by DakotaPride
+- Create: Interiors [0\.5\.6] by sudolev
+- Create: Jetpack Curios [1\.2\.0] by robinfrt
+- Create: Mechanical Botany [1\.0\.5] by DakotaPride
+- Create: New Age [1\.1\.4] by Antarctic Gardens
+- Create: Power Loader [2\.0\.3\-mc1\.20\.1] by Lysine
+- Create: Radars [0\.3] by HappySG, CeoOfGoogle, Kipti, OndatraCZE, Ray\(furuochen\)
+- Create: Security Program  [0\.1\.2] by To0pa
+- Create: Sound of Steam [0\.7\.3\+1\.20\.1] by FinchyMcFinch
+- Create: Steam 'n' Rails [1\.6\.13\-alpha\+forge\-mc1\.20\.1] by The Railways Team
+- Create: Tank Defenses [0\.80] by ItsRuby05
+- Create: Trading Floor [2\.0\.5] by Cake, Tazer
+- Create: Ultimate Factory [2\.2\.1] by robinfrt
+- Create: Winery [1\.7\.0] by robinfrt
+- CreateBetterFps [1\.1\.1] by MoePus
+- Creeper Overhaul [3\.0\.2] by Artist/Creator \- Joosh, Dev \- ThatGravyBoat
+- Cucumber Library [7\.0\.15] by BlakeBr0
+- Cultural Delights [0\.16\.5] by Developer: Baisylia \| Porting: OnesAndZer0s \| Art: Baisylia, Raspmary, Bagels
+- Curios Compat Layer for Accessories [7\.4\.0\+1\.20\.1]
+- Cyclops Core [1\.21\.1] by rubensworks \(aka kroeser\)
+- DEUF \- Duplicate Entity UUID Fix [1\.20\.1\-1\.3] by CAS\_ual\_TY
+- Darker Depths [2\.0\.6] by Naterbobber, Blackgear, Toxteer, Orcinus
+- Dawn Of Time [1\.5\.28] by Poulpinou & TheGoldenWorld
+- Deeper and Darker [1\.3\.3] by Kyanite Team
+- Dimension Viewer [1\.4\.0] by Ewan Selkirk
+- Ding [1\.5\.0] by iChun
+- Disenchanting [2\.2\.3] by ChirpTheBoy
+- Domum Ornamentum [1\.20\.1\-1\.0\.291\-snapshot] by LDTTeam, OrionDevelopment
+- Domum Ornamentum \- Bluemap Integration [1\.1\.0] by LDT Team
+- Draconic Evolution [3\.1\.2\.621] by brandon3055
+- Drawers Tooltip [8\.0\.0] by Snownee
+- Durability Tooltip [1\.1\.6] by SuperMartijn642
+- EMI [1\.1\.22\+1\.20\.1\+forge] by Emi
+- Easier Sleeping [2\.1\.3] by GeheimagentNr1
+- Easy Piglins [1\.20\.1\-1\.1\.0] by Max Henkel
+- Easy Villagers [1\.20\.1\-1\.1\.35] by Max Henkel
+- EdivadLib [2\.0\.1] by Edivad99
+- Electron Energy [1\.20\.1\-1\.0\.0] by ValkyrieofNight
+- Elevator Mod [1\.20\.1\-1\.9\.1\-forge] by VsnGamer
+- Elytra Slot [6\.4\.4\+1\.20\.1] by Illusive Soulworks
+- Embeddium [0\.3\.31\+mc1\.20\.1] by embeddedt
+- EnchantmentDescriptions [17\.1\.19] by Darkhax
+- Ender IO [6\.2\.15\-beta] by CrazyPants, tterrag, HenryLoenwind, MatthiasM, CyanideX, EpicSquid, Rover656, HypherionSA, agnor99, Ferri\_Arnus, dphaldes
+- EnderStorage [2\.11\.0\.188] by ChickenBones, covers1624
+- Enderman Overhaul [1\.0\.4] by Alex Nijjar, Joosh
+- Entangled [1\.3\.20] by SuperMartijn642
+- Entity Model Features [3\.0\.1] by Traben
+- Entity Sound Features [0\.7\.1] by Traben
+- Entity Texture Features [7\.0\.2] by Traben
+- EuphoriaPatcher [1\.7\.2\-r5\.6\.1\-forge] by SpacEagle17
+- Experience Bug Fix [46\.2\.2] by MacTso, Lupicus
+- Explorer's Compass [1\.20\.1\-1\.3\.3\-forge] by ChaosTheDude
+- ExtraStorage [4\.0\.7] by Edivad99
+- Extreme Sound Muffler [3\.48] by LeoBeliik
+- FTB Chunks [2001\.3\.6] by FTB Team
+- FTB Essentials [2001\.2\.3] by FTB Team
+- FTB Library [2001\.2\.10] by FTB Team
+- FTB Teams [2001\.3\.1] by FTB Team
+- FTB Ultimine [2001\.1\.7] by FTB Team
+- Farmer's Cutting: Oh The Biomes We've Gone [1\.20\.1\-1\.1\-forge] by Joshcraft2002
+- Farmer's Cutting: Twilight Forest [1\.20\.1\-1\.0] by Joshcraft2002
+- Farmer's Delight [1\.20\.1\-1\.2\.9] by vectorwing
+- Fast Leaf Decay [32] by Olafski
+- Fast Paintings [1\.20\-1\.2\.7] by MehVahdJukaar
+- Fast Workbench [8\.0\.4] by Shadows\_of\_Fire
+- FastFurnace [8\.0\.2] by Shadows\_of\_Fire
+- Faster Ladder Climbing [0\.2\.10] by JaSpr, forkbomb\_
+- Female Plastic Surgery: Bust Limit Tweaker [1\.0\.0] by Rinko1231
+- Ferrite Core [6\.0\.1] by malte0811
+- Fetzi's Asian Decoration [1\.7\.2b] by LordFetzi
+- Flat Bedrock [3\.0\.1\-build\.18\+mc1\.20\.1]
+- Flux Network x CC: Tweaked [1\.20\.1\-1\.0\.0] by Wolfieboy09
+- Flux Networks [7\.2\.1\.15] by Sonar Sonic, BloCamLimb
+- Framework [0\.7\.15] by MrCrayfish
+- Fusion [1\.2\.11\+a] by SuperMartijn642
+- GeckoLib 4 [4\.8\.2] by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
+- Get It Together, Drops\! [1\.3] by bl4ckscor3
+- Glodium [1\.20\-1\.5\-forge] by GlodBlock
+- Goblin Traders [1\.11\.5] by MrCrayfish
+- Gravestone Mod [1\.20\.1\-1\.0\.35] by Max Henkel
+- GuideME [20\.1\.13] by shartte
+- HammerLib [20\.1\.50] by Zeitheron
+- Handcrafted [3\.0\.6] by Alex Nijjar, Kekie6
+- Hostile Neural Networks [5\.3\.3] by Shadows\_of\_Fire
+- ImmediatelyFast [1\.5\.2\+1\.20\.4] by RK\_01
+- Immersive Aircraft [1\.4\.0\+1\.20\.1] by Luke100000
+- Immersive Engineering [1\.20\.1\-10\.2\.0\-183] by BluSunrize and Damien A\.W\. Hazard
+- Immersive Lanterns [1\.0\.6] by Toni
+- Immersive Posts [4\.3\.0\-11] by TwistedGate
+- Incendium [5\.3\.5] by Stardust Labs
+- Integrated API [1\.5\.3\+1\.20\.1\-forge] by CraisinLord
+- Integrated Dungeons and Structures [1\.12\.1\+1\.20\.1] by CraisinLord
+- Integrated Stronghold [1\.1\.2\+1\.20\.1\-forge] by CraisinLord
+- Integrated Villages [1\.3\.0\+1\.20\.1\-forge] by CraisinLord
+- IntegratedCrafting [1\.3\.1] by rubensworks \(aka kroeser\)
+- IntegratedDynamics [1\.28\.1] by rubensworks \(aka kroeser\)
+- IntegratedTerminals [1\.6\.11] by rubensworks \(aka kroeser\)
+- IntegratedTunnels [1\.9\.0] by rubensworks \(aka kroeser\)
+- Inventory Essentials [8\.2\.12] by BlayTheNinth
+- JRFTL [1\.6\.0]
+- JamLib [1\.3\.5\+1\.20\.1] by Jamalam
+- JourneyMap Integration [1\.20\.1\-0\.14\-48] by frankV
+- Journeymap [5\.10\.3] by Techbrew, Mysticdrew
+- Just Enough Items [15\.20\.0\.116] by mezz
+- Kotlin for Forge [5402061]
+- Let Me Despawn [1\.5\.0] by frikinjay
+- Lexiconfig [1\.4\.18\-1] by CodinGlitch
+- LionfishAPI [2\.4\-Fix]
+- Lootr [0\.7\.35\.92] by Noobanidus
+- ME Requester [1\.20\.1\-1\.1\.5] by Almost Reliable
+- MEProxy [1\.0\.1] by ProGoofster
+- Macaw's Bridges [3\.1\.0] by Sketch Macaw & Peachy Macaw
+- Macaw's Doors [1\.1\.2] by Sketch Macaw & Sketch Peachy
+- Macaw's Fences and Walls [1\.2\.0] by Sketch Macaw & Peachy Macaw
+- Macaw's Furniture [3\.3\.0] by Sketch Macaw
+- Macaw's Lights and Lamps [1\.1\.2] by Sketch Macaw & Peachy Macaw
+- Macaw's Paintings [1\.0\.5] by Art made by Peachy, coded by Sketch Macaw
+- Macaw's Paths and Pavings [1\.1\.1] by Sketch Macaw & Peachy Macaw
+- Macaw's Roofs [2\.3\.2] by Sketch Macaw & Sketch Peachy
+- Macaw's Stairs and Balconies [1\.0\.1] by Sketch Macaw & Sketch Peachy
+- Macaw's Trapdoors [1\.1\.4] by Sketch Macaw & Peachy Macaw
+- Macaw's Windows [2\.4\.1] by Sketch Macaw & Peachy Macaw
+- Mahou Tsukai [1\.20\.1\-v1\.34\.80] by stepsword
+- Mana and Artifice [3\.1\.11] by Mithion
+- Map Atlases [1\.20\-6\.0\.17] by MehVahdJukaar, Pepperoni\_\_Jabroni\_\_
+- Map Atlases \+ Waystones Compatibility [1\.0\.0] by tofu26
+- MaxHealthFix [12\.0\.3] by Darkhax
+- McJtyLib [1\.20\-8\.0\.7] by McJty
+- Measurements [2\.0\.1] by Mrbysco
+- Mekanism [10\.4\.16] by Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd
+- Mekanism: Additions [10\.4\.16] by Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd
+- Mekanism: Generators [10\.4\.16] by Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd
+- Mekanism: Tools [10\.4\.16] by Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd
+- MineColonies [1\.20\.1\-1\.1\.1079\-snapshot] by LDT Team
+- MineColonies \- Bluemap Integration [1\.0\.1] by LDT Team
+- MineColonies for ComputerCraft [2\.6\.5] by Mirality
+- Miner's Delight [1\.20\.1\-1\.2\.3] by Sammy;
+- MiniCoal [1\.20\-1\.0\.0] by kwifrog
+- Mod Name Tooltip [1\.20\.0] by mezz
+- Model Gap Fix [1\.15] by MehVahdJukaar
+- ModernFix [5\.24\.4\+mc1\.20\.1] by embeddedt
+- Mods Optimizer [4\.1\.0] by Markus Bordihn
+- Moonlight Library [1\.20\-2\.16\.15] by MehVahdJukaar
+- More Axolotl Variants API [1\.1\.4] by AkashiiKun, KxmischesDomi
+- More Axolotl Variants Mod [1\.2\.6] by AkashiiKun
+- More Dragon Eggs [4\.0] by Darkere
+- More Mekanism Processing [4\.4] by gisellevonbingen
+- More Mob Variants [1\.3\.0\.1] by nyuppo
+- More Red [4\.0\.0\.4] by Commoble
+- More Red x CC:Tweaked Compat [1\.20\.1\-1\.0\.0] by YuRaNnNzZZ
+- Mouse Tweaks [2\.25\.1] by Ivan Molodetskikh \(YaLTeR\)
+- MrCrayfish's Furniture Mod: Refurbished [1\.0\.20] by MrCrayfish
+- Multi\-Piston [1\.20\-0\.0\.47\-snapshot] by Let's Dev Together Team
+- Mystical Adaptations [1\.20\.1\-1\.0\.1] by focamacho
+- Mystical Agradditions [7\.0\.11] by BlakeBr0
+- Mystical Agriculture [7\.0\.23] by BlakeBr0
+- Mystical Customization [5\.0\.3] by BlakeBr0
+- Mystical Garden Cloches [1\.0\.0]
+- NaNny [1\.0\.1] by Qther
+- Nature's Compass [1\.20\.1\-1\.11\.2\-forge] by ChaosTheDude
+- Neruina [2\.1\.2] by Bawnorton
+- NetherPortalFix [13\.0\.1] by BlayTheNinth
+- Night Lights [1\.1] by Joosh and samgj15
+- No Villager Death Messages [5\.0\.0]
+- Not Enough Glyphs [1\.20\.1\-3\.2\.1\.1] by Porting by Alexthw to 1\.19\.2 and up
+- Nullscape [1\.2\.8] by Stardust Labs
+- Oculus [1\.8\.0] by NanoLive, dima\_dencep, coderbot, IMS212, Justsnoopy30, FoundationGames
+- Oh The Biomes We've Gone [1\.6\.6] by Joseph T\. McQuigg \(JT122406\), AOCAWOL, YaBoiChips, Corgi Taco
+- Oh The Trees You'll Grow [1\.4\.2] by Corgi Taco
+- PacketFixer [3\.3\.0] by TonimatasDEV
+- Patchouli [1\.20\.1\-84\.1\-FORGE] by Vazkii
+- Paxi [1\.20\-Forge\-4\.0] by YUNGNICKYOUNG
+- Placebo [8\.6\.3] by Shadows\_of\_Fire
+- Platform [1\.2\.10\.1] by ItsBlackGear
+- Polymorph [0\.49\.10\+1\.20\.1] by Illusive Soulworks
+- Polymorphic Energistics [0\.1\.1\-1\.20\.1] by 90
+- Powah [5\.0\.11] by owmii,Technici4n
+- Prefab [1\.10\.0\.1] by WuestMan, Kaojinn
+- Project Expansion [1\.20\.1\-1\.1\.2] by Donovan\_DMC
+- ProjectE [1\.0\.1] by SinKillerJ, MaPePeR, williewillus, Lilylicious, pupnewfster
+- ProjectRed Core [4\.21\.0] by MrTJP, Chicken Bones, covers1624
+- ProjectRed Expansion [4\.21\.0] by MrTJP, Chicken Bones, covers1624
+- ProjectRed Exploration [4\.21\.0] by MrTJP, Chicken Bones, covers1624
+- ProjectRed Fabrication [4\.21\.0] by MrTJP, Chicken Bones, covers1624
+- ProjectRed Illumination [4\.21\.0] by MrTJP, Chicken Bones, covers1624
+- ProjectRed Integration [4\.21\.0] by MrTJP, Chicken Bones, covers1624
+- ProjectRed Transmission [4\.21\.0] by MrTJP, Chicken Bones, covers1624
+- Quark [4\.0\-462] by Vazkii, WireSegal, MCVinnyq, Sully
+- RFToolsBase [1\.20\-5\.0\.6] by McJty
+- RSInfinityBooster [1\.20\.1\-1\.0\+41]
+- RSRequestify [2\.3\.3] by Buuz135
+- Redden's Stone Lanterns [1\.0\.3] by ReddenFish, MCreator
+- Redstone Pen [1\.3\.33] by wilechaote
+- Refined Cooking [4\.0\.0] by ItsSebastrn
+- Refined Crafter Proxy [4\.1\.2] by StevenDoesStuffs
+- Refined Polymorphism [0\.1\.1\-1\.20\.1] by 90
+- Refined Storage [1\.12\.4] by Refined Mods
+- Refined Storage Addons [0\.10\.0] by Refined Mods
+- Resourceful Lib [2\.1\.29] by ThatGravyBoat, Epic\_Oreo
+- Resourcefulconfig [2\.1\.3]
+- Right Click Harvest [4\.6\.0\+1\.20\.1] by Jamalam
+- Ritchie's Projectile Library [2\.1\.0] by rbasamoyai
+- Saros Road signs mod [4\.4] by Sarocesch
+- Saro´s Construction Mod [1\.6\.3] by Sarocesch
+- Saro´s Fruit Trees Mod [3\.0] by Sarocesch
+- Saro´s Money Mod [3\.5\.5] by Sarocesch
+- Saro´s Road Blocks Mod [4\.0] by Sarocesch
+- Scannable [1\.7\.12\+18ccb75] by Sangar
+- Schematic Energistics [1\.3\.0] by Yrley
+- Searchables [1\.0\.3] by Jaredlll08
+- Sebastrn Lib [4\.0\.0] by ItsSebastrn
+- Simple Inventory Sorter [23\.0\.8] by cpw
+- Simple Radio [3\.4\.6] by CodinGlitch
+- Simple Voice Chat [1\.20\.1\-2\.6\.6] by Max Henkel
+- Sodium Dynamic Lights [1\.0\.9] by toni, LambdAurora
+- Sodium Options API [1\.0\.10] by toni
+- Solar Flux Reborn [20\.1\.11] by Zeitheron
+- Sophisticated Backpacks [3\.24\.10\.1404] by P3pp3rF1y, Ridanisaurus
+- Sophisticated Backpacks Create Integration [0\.1\.4\.24] by P3pp3rF1y
+- Sophisticated Core [1\.2\.105\.1230] by P3pp3rF1y
+- Sophisticated Storage [1\.4\.13\.1350] by P3pp3rF1y, Ridanisaurus
+- Sophisticated Storage Create Integration [0\.1\.13\.48] by P3pp3rF1y
+- Spice of Life: Carrot Edition [1\.15\.1] by Cazsius, Talonos, juliand665
+- Starbunclemania [1\.20\.1\-1\.2\.3\.0] by Alexthw
+- Storage Drawers [12\.14\.3] by Texelsaur
+- Structurize [1\.20\.1\-1\.0\.784\-snapshot] by LDT Team
+- SuperMartijn642's Config Library [1\.1\.8] by SuperMartijn642
+- SuperMartijn642's Core Lib [1\.1\.18] by SuperMartijn642
+- Supplementaries [1\.20\-3\.1\.41] by MehVahdJukaar, Plantkillable
+- Supplementaries Squared [1\.20\-1\.1\.26] by MehVahdJukaar, Plantkillable
+- Team Project Expansion [1\.2\.0] by Lapis256
+- Team ProjectE [1\.1\.4] by 6LeoY
+- Teerth's Traffic Control Mod [5\.5\.0] by Teerth 
+- TerraBlender [3\.0\.1\.10] by Adubbz
+- Terralith [2\.5\.4] by Stardust Labs
+- Tetranomicon [1\.6\.1\-1\.20\.1] by Syric
+- The One Probe [1\.20\.1\-10\.0\.3] by McJty
+- The Twilight Forest [4\.3\.2508] by Benimatic, AtomicBlom, Drullkus, Killer\_Demon, quadraxis, Tamaized, williewillus, Andromander, GizmoTheMoonPig, jodlodi
+- Time In A Bottle [4\.0\.4\-mc1\.20\.1] by MangoRage, haoict
+- Toast Control [8\.0\.3] by Shadows\_of\_Fire
+- Too Fast [0\.4\.3\.5] by Noobanidus
+- Too Many Glyphs [2\.3\.2\.12345] by DerringersMods
+- Torchmaster [20\.1\.9] by Xalcon
+- TownTalk [1\.1\.0] by LDT Team
+- Trash Cans [1\.0\.18b] by SuperMartijn642
+- Trials Chambers [2\.3\.3] by Jusey1
+- TxniLib [1\.0\.24] by Toni
+- UI Library Mod [1\.20\.1\-1\.0\.194] by LDT Team
+- ValkyrieLib [1\.20\.1\-4\.0\.5\.0] by ValkyrieofNight
+- VanillaBackport [1\.1\.4\.3] by BlackGear
+- Walkie\-Talkie [1\.3\.0] by Flaton
+- Waystones [14\.1\.17] by BlayTheNinth
+- Waystones pets addon [0\.0\.7] by ImagineForgee
+- When Dungeons Arise [2\.1\.58\-1\.20\.x] by Aurelj, DiamondTown and Zephyrusj
+- When Dungeons Arise: Seven Seas [1\.0\.2] by Zephyrusj, Aurelj
+- Wildfire's Female Gender Mod [1\.20\.1\-3\.0\.1] by WildfireRomeo
+- Wither Skeleton Tweaks [9\.1\.0] by Shadows\_of\_Fire
+- XNet [1\.20\-6\.1\.6] by McJty
+- XNet Gases [5\.1\.4] by Terrails
+- YUNG's API [1\.20\-Forge\-4\.0\.6] by YUNGNICKYOUNG
+- Yeetus Experimentus [2\.3\.0\-build\.4\+mc1\.20\.1] by Sunekaer
+- YetAnotherConfigLib [3\.6\.6\+1\.20\.1\-forge] by isXander
+- Zeta [1\.0\-30] by Vazkii, quat, IThundxr, siuol, wiresegal, MehVahdJukaar
+- backpack allthemodium upgrade [2\.1] by MobSmasher4000
+- cataclysm [3\.16] by L\_Ender
+- create\_stripped\_log\_compat [1] by qwek
+- gravestonecurioscompat [3\.0\.0]
+- iChunUtil [1\.0\.3] by iChun
+- mutil [6\.2\.0] by Mickelus
+- saros\_create\_addon\_forge [1\.0\.0] by saroc, MCreator
+- signpost [2\.02\.0] by Gollorum
+- storage allthemodium upgrade [2\.1] by MobSmasher4000
+- tetra [6\.11\.0] by Mickelus
